@@ -37,3 +37,21 @@ kramdown:
 
 gems: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
+# COLORS
+# original
+##  e25440: reddish (links/button borders)
+##  b9301c: reddish darker (hover)
+## fae3df: pink (selection highlight)
+
+# new
+## 4600A0: purple (favicon)
+## 3ECBCD: light turqoise ()
+## 46C7C7: jellyfish ()
+## 48CCCD: medium turqoise ()
+## 00cccc: some other turqoise (links)
+## 009999: darker version of 00cccc (hover)
+## CCF4F4: light turquoise (selection highlighting)
+## #e5f9f9: light turquoise alternate
+# css/main.css : changes border color of tags
+# css/uno.css :
