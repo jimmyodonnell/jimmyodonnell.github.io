@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ichneumonclature
-tags: [nature]
+tags: [Nature]
 comments: false
 ---
 ![ichneumon](/images/ichneumon-img_2409-copy1.jpg)

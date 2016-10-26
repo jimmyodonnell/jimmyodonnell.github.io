@@ -3,7 +3,7 @@ layout: post
 title: Lake Dakataua
 excerpt:
 modified: 2011-10-11
-tags: [science]
+tags: [Science]
 comments: false
 ---
 ![](/images/lake_dakataua_googlemap.png)

@@ -3,7 +3,7 @@ layout: post
 title: Flightless wonders
 excerpt: 
 date: 2013-01-14
-tags: [insects, evolution]
+tags: [Science]
 comments: false
 ---
 ![Corsica mantis](/images/mantis-img_3789.jpg)

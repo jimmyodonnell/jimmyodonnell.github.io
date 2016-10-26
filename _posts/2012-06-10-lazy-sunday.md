@@ -2,7 +2,7 @@
 layout: post
 title: A Lazy Sunday
 excerpt:
-tags: [OTS, nature]
+tags: [OTS, Nature]
 comments: false
 ---
 

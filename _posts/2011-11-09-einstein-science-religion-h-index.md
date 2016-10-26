@@ -2,7 +2,7 @@
 layout: post
 title: Einstein, Science, Religion, and the h-index
 modified: 2011-11-09
-tags: [publishing, science]
+tags: [Science]
 comments: false
 ---
 ![einstein](/images/albert-einstein2.jpg)

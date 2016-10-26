@@ -2,7 +2,7 @@
 layout: post
 title: A walk in the woods
 date: 2012-06-08
-tags: [OTS, La Selva, Costa Rica]
+tags: [OTS, Costa Rica]
 comments: false
 ---
 

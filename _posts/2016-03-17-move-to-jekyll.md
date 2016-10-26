@@ -3,7 +3,7 @@ layout: post
 title:  "Moving to Jekyll"
 date:   2016-03-17 15:27:00
 categories: update
-tags: [computing]
+tags: [Misc]
 ---
 After a bit of fiddling, I've worked up a new personal website. I will keep [my old site](http://jimmyodonnell.wordpress.com) up and running, but will migrate all of the content from there over to here.
 

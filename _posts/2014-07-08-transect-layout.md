@@ -2,9 +2,9 @@
 layout: post
 title: Transect Layout in R
 date:   2014-07-08
-excerpt: 
+excerpt:
 modified: 2011-08-11
-tags: [R, spatial, ecology]
+tags: [R, Spatial]
 comments: false
 ---
 I’m working with an awesome group of folks at NOAA’s [Northwest Fisheries Science Center](http://www.nwfsc.noaa.gov/) on a project investigating biodiversity of eelgrass habitats around Puget Sound, and our team (the [Kelly Lab](http://kellyresearchlab.com/)) is assessing the feasibility of [environmental DNA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086175) methods for this type of study. If we’re to be confident in our ability to detect differences among sites, we first need to know how far DNA molecules (and tissue fragments containing them) travel before degrading in these tidally influenced habitats.

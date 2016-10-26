@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Home on the Heliconia
-excerpt: 
+excerpt:
 date: 2012-06-17
-tags: [La Selva]
+tags: [Costa Rica, OTS]
 comments: false
 ---
 ![Heliconia](/images/heliconia-resize-img_0314.jpg)

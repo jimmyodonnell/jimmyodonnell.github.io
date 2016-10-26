@@ -3,7 +3,7 @@ layout: post
 title: Stranger Than Fiction
 excerpt: 
 date: 2013-06-13
-tags: [nature]
+tags: [Nature]
 comments: false
 ---
 ![beetle with mites](/images/img_6953-copy-beetle-mites.jpg)

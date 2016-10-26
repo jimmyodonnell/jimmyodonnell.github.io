@@ -2,7 +2,7 @@
 layout: post
 title: Beetle Bling INBio
 date: 2012-06-16
-tags: [inbio, costa rica, OTS]
+tags: [Costa Rica, OTS]
 comments: false
 ---
 

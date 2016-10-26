@@ -1,9 +1,9 @@
 ---
 layout: post
 title: La Selva packing list
-excerpt: 
+excerpt:
 date: 2012-06-21
-tags: [La Selva, OTS, Costa Rica]
+tags: [OTS, Costa Rica]
 comments: false
 ---
 In June 2012 I took a two week long OTS course in Beetle Systematics at La Selva Biological Station. I had never done any kind of tropical terrestrial fieldwork before, and was concerned with what to bring. La Selva is an extremely busy field station, but I was unable to find a “What to Bring” list posted anywhere online. For others in this position, here’s my take on it.

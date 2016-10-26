@@ -2,7 +2,7 @@
 layout: post
 title: Cooking Up a Fresh Batch of ModelTest
 excerpt:
-tags: [phylogenetics, science]
+tags: [DNA, Science]
 comments: false
 ---
 

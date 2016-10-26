@@ -3,7 +3,7 @@ layout: post
 title: Beetle Mania
 excerpt: "En route to Costa Rica"
 modified: 2012-06-04
-tags: [beetles, Costa Rica, OTS]
+tags: [Costa Rica, OTS]
 comments: false
 ---
 

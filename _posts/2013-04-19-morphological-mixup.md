@@ -3,7 +3,7 @@ layout: post
 title: Morphological Mixup
 excerpt: 
 date: 2013-04-19
-tags: [clownfish, genbank]
+tags: [DNA, Science]
 comments: false
 image: 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: First Day of Classes
 date: 2012-06-07
-tags: [OTS, La Selva]
+tags: [OTS, Costa Rica]
 comments: false
 ---
 ![toucan](/images/img_0330-toucan-crop.jpg)

@@ -3,7 +3,7 @@ layout: post
 title: Haplotype networks in R
 excerpt: 
 date: 2013-05-20
-tags: [R, population genetics]
+tags: [R, DNA]
 comments: false
 ---
 

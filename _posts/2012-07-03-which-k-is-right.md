@@ -2,7 +2,7 @@
 layout: post
 title: Which K is right for you?
 excerpt: "On choosing the best number of groups for population structure analyses."
-tags: [population genetics]
+tags: [DNA]
 comments: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Habits
-excerpt: 
+excerpt:
 date: 2013-05-17
-tags: [productivity]
+tags: [Misc]
 comments: false
 ---
 In this last stretch of grad school, it seems that new opportunities and projects pop up with increasing frequency, as does the urgency of each task. At the same time, I’m not willing to give up some of the things in my life that are not work; thus, my desire to be as efficient as possible in both capacities has intensified.

@@ -3,7 +3,7 @@ layout: post
 title: Îles Éparses article
 excerpt:
 modified: 2011-10-18
-tags: [science]
+tags: [Science]
 comments: false
 ---
 ![marion dufresne](/images/img_3834_marion_dufresne.jpg)

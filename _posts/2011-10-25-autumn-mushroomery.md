@@ -2,7 +2,7 @@
 layout: post
 title: Autumn Mushroomery
 modified: 2011-10-25
-tags: [mushroom, foraging, food, cooking]
+tags: [Foraging, Food]
 comments: false
 ---
 ![boletes](/images/boletes-imag0320.jpg)

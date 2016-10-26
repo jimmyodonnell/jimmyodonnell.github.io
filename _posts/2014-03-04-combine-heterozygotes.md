@@ -3,7 +3,7 @@ layout: post
 title: Combine heterozygous DNA sequences in R
 excerpt: 
 date: 2014-03-04
-tags: [R, genetics]
+tags: [R, DNA]
 comments: false
 ---
 Most folks know  the nucleotides that make up strands of DNA are represented by letters (A, G, C, T). But if you’re unsure of the nucleotide at a given spot, it can be represented by another letter that conveys your level of uncertainty. For example, “I know there’s a nucleotide here, but I have no idea what it is” is represented by an N. “This is either adenine or guanine (A or G)” can be represented by an R.

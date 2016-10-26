@@ -2,7 +2,7 @@
 layout: post
 title: alt.pad.thai
 excerpt: "A variant on pad thai."
-tags: [food, cooking]
+tags: [Food]
 comments: false
 ---
 ![pad thai](/images/pad-thai-sally-imag0738-1-crop.jpg)

@@ -3,7 +3,7 @@ layout: post
 title: How many species does your planet have?
 excerpt:
 modified: 2012-03-12
-tags: [science]
+tags: [Science]
 comments: false
 ---
 

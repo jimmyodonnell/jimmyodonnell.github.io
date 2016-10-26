@@ -2,7 +2,7 @@
 layout: post
 title: Don't blink
 date: 2012-06-09
-tags: [OTS, Costa Rica, La Selva]
+tags: [OTS, Costa Rica]
 comments: false
 ---
 

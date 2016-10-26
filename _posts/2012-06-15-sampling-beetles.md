@@ -2,7 +2,7 @@
 layout: post
 title: On the various contrivances by which beetles are captured by coleopterists
 date: 2012-06-15
-tags: [OTS, Costa Rica, Insects]
+tags: [OTS, Costa Rica]
 comments: false
 ---
 

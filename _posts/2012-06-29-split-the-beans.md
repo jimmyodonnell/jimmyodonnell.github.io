@@ -3,7 +3,7 @@ layout: post
 title: Who split the beans?
 excerpt: "How to cook beans without splitting their skins."
 date: 2012-06-29
-tags: [food, cooking, recipes]
+tags: [Food]
 comments: false
 ---
 

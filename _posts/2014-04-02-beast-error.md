@@ -3,7 +3,7 @@ layout: post
 title: Puzzling BEAST error
 excerpt: 
 date: 2014-04-02
-tags: [phylogenetics]
+tags: [DNA]
 comments: false
 ---
 If one were to trace back in time the sequence of a given stretch of DNA, that gene’s history wouldn’t necessarily perfectly represent the history of the lineages of individuals harboring it. Thus, if you want to know the true history of lineages of individuals, you should compare the lineages of multiple genes. One can accomplish this using the software package [BEAST](http://beast2.org/), using the atrociously named extension *BEAST (pronounced “star beast”). Until you can pronounce words into search engines, cleverly named programs like this will be a pain in the neck for users.
