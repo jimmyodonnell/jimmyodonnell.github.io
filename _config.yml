@@ -1,6 +1,6 @@
 # main text of home
 name: Jimmy O'Donnell
-bio: Data  —  Skepticism  —  Science 
+bio: Data  —  Science  —  Skepticism
 description: This is mumbo jumbo in the home description.
 
 # twitter summary info
@@ -72,7 +72,6 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# TODO check that using 'false' is equivalent to commenting out
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
@@ -92,12 +91,10 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-# TODO see whether removing this or altering author above
 show-author: false
 
-# do you want some animations?
-# TODO what does this mean
-animation: true
+# animate page transitions, etc.
+animation: false
 
 plugins:
   - jekyll-seo-tag
