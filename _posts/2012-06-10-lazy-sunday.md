@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: A Lazy Sunday
 excerpt:
 tags: [OTS, Nature]

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Morphological Mixup
 excerpt: 
 date: 2013-04-19

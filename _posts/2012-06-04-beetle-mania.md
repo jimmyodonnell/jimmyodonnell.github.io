@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Beetle Mania
 excerpt: "En route to Costa Rica"
 modified: 2012-06-04

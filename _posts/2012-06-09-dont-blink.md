@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Don't blink
 date: 2012-06-09
 tags: [OTS, Costa Rica]

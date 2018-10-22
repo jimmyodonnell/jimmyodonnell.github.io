@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Combine heterozygous DNA sequences in R
 excerpt: 
 date: 2014-03-04

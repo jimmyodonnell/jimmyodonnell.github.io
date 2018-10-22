@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: First Day of Classes
 date: 2012-06-07
 tags: [OTS, Costa Rica]

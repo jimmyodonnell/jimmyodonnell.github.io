@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Puzzling BEAST error
 excerpt: 
 date: 2014-04-02

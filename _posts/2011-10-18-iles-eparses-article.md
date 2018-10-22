@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Îles Éparses article
 excerpt:
 modified: 2011-10-18

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: alt.pad.thai
 excerpt: "A variant on pad thai."
 tags: [Food]

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: La Selva packing list
 excerpt:
 date: 2012-06-21

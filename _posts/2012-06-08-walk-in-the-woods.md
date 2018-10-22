@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: A walk in the woods
 date: 2012-06-08
 tags: [OTS, Costa Rica]

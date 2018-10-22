@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Ichneumonclature
 tags: [Nature]
 comments: false

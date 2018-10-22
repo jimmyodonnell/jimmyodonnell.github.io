@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Stranger Than Fiction
 excerpt: 
 date: 2013-06-13

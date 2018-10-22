@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Autumn Mushroomery
 modified: 2011-10-25
 tags: [Foraging, Food]

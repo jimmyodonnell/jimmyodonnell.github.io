@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Cooking Up a Fresh Batch of ModelTest
 excerpt:
 tags: [DNA, Science]

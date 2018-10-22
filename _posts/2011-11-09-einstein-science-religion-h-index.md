@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Einstein, Science, Religion, and the h-index
 modified: 2011-11-09
 tags: [Science]

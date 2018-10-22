@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Beetle Bling INBio
 date: 2012-06-16
 tags: [Costa Rica, OTS]

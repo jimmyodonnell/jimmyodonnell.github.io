@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Home on the Heliconia
 excerpt:
 date: 2012-06-17

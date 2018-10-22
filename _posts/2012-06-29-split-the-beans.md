@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Who split the beans?
 excerpt: "How to cook beans without splitting their skins."
 date: 2012-06-29

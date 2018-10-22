@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Homemade Ginger Beer
 excerpt:
 date: 2016-10-26

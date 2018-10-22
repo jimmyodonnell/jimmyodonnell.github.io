@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Haplotype networks in R
 excerpt: 
 date: 2013-05-20

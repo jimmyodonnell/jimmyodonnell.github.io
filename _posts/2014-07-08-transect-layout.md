@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Transect Layout in R
 date:   2014-07-08
 excerpt:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title:  "Moving to Jekyll"
 date:   2016-03-17 15:27:00
 categories: update

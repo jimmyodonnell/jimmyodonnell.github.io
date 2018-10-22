@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: New Habits
 excerpt:
 date: 2013-05-17

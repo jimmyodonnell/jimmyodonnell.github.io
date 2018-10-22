@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: How many species does your planet have?
 excerpt:
 modified: 2012-03-12

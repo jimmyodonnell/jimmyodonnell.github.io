@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Interpreting Structure Plots
 excerpt: 
 date: 2014-05-25

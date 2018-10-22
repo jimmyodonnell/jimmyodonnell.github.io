@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Flightless wonders
 excerpt: 
 date: 2013-01-14

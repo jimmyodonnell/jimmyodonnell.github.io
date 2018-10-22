@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Adios Costa Rica
 excerpt: 
 date: 2012-06-19

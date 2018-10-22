@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Legend for haplotype networks in R
 excerpt: 
 date: 2014-06-16

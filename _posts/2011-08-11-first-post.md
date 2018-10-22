@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: First Post
 excerpt:
 modified: 2011-08-11

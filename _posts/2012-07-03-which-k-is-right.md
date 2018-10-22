@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Which K is right for you?
 excerpt: "On choosing the best number of groups for population structure analyses."
 tags: [DNA]

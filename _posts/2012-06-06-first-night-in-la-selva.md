@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: First night in La Selva
 excerpt: "First Night at La Selva Biological Station."
 modified: 2012-06-06

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Lake Dakataua
 excerpt:
 modified: 2011-10-11
