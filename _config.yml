@@ -1,57 +1,110 @@
-# Site settings
-title: Jimmy O'Donnell
-description: 'Evolution • Ecology • Numbers • Computers'
-url: 'http://jimmyodonnell.github.io'
-baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+# main text of home
+name: Jimmy O'Donnell
+bio: Data  —  Skepticism  —  Science 
+description: This is mumbo jumbo in the home description.
 
-author:
-  name: "Jimmy O'Donnell"
-  email: jodonnellbio@gmail.com
-  # twitter_username: joshgerdes
-  # facebook_username: joshgerdes
-  # github_username:  joshgerdes
-  # linkedin_username:  joshgerdes
+# twitter summary info
+description: Jimmy O'Donnell's personal site twitter summary info
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
 
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
-markdown: kramdown
-highlighter: rouge
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: false
+resume-external: false
+resume-url: https://google.com/?q=my+resume
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
+url: https://jimmyodonnell.github.io
+# your url: http://USERNAME.github.io
 
-plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+permalink: /:title/
 
-# COLORS
-# original
-##  e25440: reddish (links/button borders)
-##  b9301c: reddish darker (hover)
-## fae3df: pink (selection highlight)
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
 
-# new
-## 4600A0: purple (favicon)
-## 3ECBCD: light turqoise ()
-## 46C7C7: jellyfish ()
-## 48CCCD: medium turqoise ()
-## 00cccc: some other turqoise (links)
-## 009999: darker version of 00cccc (hover)
-## CCF4F4: light turquoise (selection highlighting)
-## #e5f9f9: light turquoise alternate
-# css/main.css : changes border color of tags
-# css/uno.css :
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: #mydisqus # enter this from your disqus account
+  categories: #[blog, project] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+# facebook: myfacebook
+# twitter: mytwitter
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: jimmyod
+# youtube: myyoutube
+# spotify: myspotify
+github: jimmyodonnell
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: pleasedont@emailme.gov
+
+authors:
+    jimmy:
+        name: Jimmy O'Donnell
+        bio: This is Jimmy's author bio
+        external-image: false
+        picture: assets/images/profile.jpg
+        # twitter: johndoe
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+# TODO check that using 'false' is equivalent to commenting out
+projects: false
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: false
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+# TODO see whether removing this or altering author above
+show-author: false
+
+# do you want some animations?
+# TODO what does this mean
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+
+jekyll-mentions:
+    base_url: https://github.com
