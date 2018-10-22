@@ -5,7 +5,7 @@ modified: 2011-10-25
 tags: [Foraging, Food]
 comments: false
 ---
-![boletes](/images/boletes-imag0320.jpg)
+![boletes](/assets/images/boletes-imag0320.jpg)
 
 There has been a spike in mushroom activity in my life in the last few days. In the Santa Cruz area, one of the first mushrooms to emerge with the fall rains is the Porcini ([Boletus cf. edulis](https://en.wikipedia.org/wiki/Boletus_edulis) & friends), and the two specimens I’ve tasted were easily my favorite mushroom of all time. I’ve spent the last two falls trying to catch them at the right time and the right place, but have never successfully found them in the wild. I was determined to change all that on Sunday, and ventured out to an area with lots of mixed woods but plenty of Douglas Fir cover, an area where I know others have found Porcinis. I searched for about 2.5 hours through oak, fir, madrone, and manzanita duff, all the while thinking about the delicious dinner we’d enjoy with the day’s bounty.
 
@@ -15,4 +15,4 @@ Yesterday, at the Science Hill bus stop on the UCSC campus, I spotted some [Copr
 
 Species in the genus Coprinus are famous for liquifying/digesting their own tissues in the gills in order to disperse the spores; mycologists call this “deliquescing”.  I call “deliquesce” one of my new favorite words.
 
-![coprinus comatus](/images/coprinus_comatus_02_schumann.jpg)
+![coprinus comatus](/assets/images/coprinus_comatus_02_schumann.jpg)

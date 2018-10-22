@@ -11,7 +11,7 @@ A company here in Seattle called Rachel's Ginger Beer makes delicious ginger bee
 At around [$20 per quart](http://rachelsgingerbeer.com/products/variety-4-pack), their prices can only be described as laughably high for soda.
 In a cocktail, the mixer is likely more expensive than the liquor.
 
-![dark and stormy](/images/dark_and_stormy.jpg)
+![dark and stormy](/assets/images/dark_and_stormy.jpg)
 
 I like ginger beer just fine. But at my core, I am ~~a cheapskate~~ thrifty. This price fascinated me, as the ingredients couldn't be much more than sugar, water, and ginger, so I dug around for recipes. Turns out it is incredibly easy (and cheap) to make at home.
 
@@ -19,7 +19,7 @@ I was drawn to [Jeffrey Morgenthaler's recipe](http://www.jeffreymorgenthaler.co
 
 The recipe also requires you to peel the ginger before grating it, and yet misses out on an opportunity for more flavor where plain water is added. Instead, I didn't peel my ginger, and steeped the solids after pressing in the water used for the bulk of the recipe. Likewise, you could substitute some of the water with some fruit juice, though you might want to cut back on sugar. I also made a batch using passionfruit puree instead of lemon juice (pictured below) that turned out great.
 
-![ginger beer photo](/images/ginger_beer.jpg)
+![ginger beer photo](/assets/images/ginger_beer.jpg)
 
 #### Ingredients
 

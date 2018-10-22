@@ -5,7 +5,7 @@ excerpt: "A variant on pad thai."
 tags: [Food]
 comments: false
 ---
-![pad thai](/images/pad-thai-sally-imag0738-1-crop.jpg)
+![pad thai](/assets/images/pad-thai-sally-imag0738-1-crop.jpg)
 
 One of Sally's all-time favorite dishes is Pad Thai, and I've tried a number of recipes for it over the years. I feel pretty settled on [a good solid sauce recipe](http://chezpim.com/cook/pad_thai_for_beginners), which is the heart of the dish. As emphasized by Chez Pim, it is critical to make the sauce ahead of time because everything is cooking so quickly that you don't have time to taste and make small adjustments on the fly once the dish is cooking.
 

@@ -15,4 +15,4 @@ legend(-108,83, legend=rep(“”,11), fill=rainbow(11), bty=”n”, cex=1.2)
 ```
 Which produced the following plot:
 
-![](/images/haplotype_network_legend.png)
+![](/assets/images/haplotype_network_legend.png)

@@ -6,7 +6,7 @@ date: 2013-01-14
 tags: [Science]
 comments: false
 ---
-![Corsica mantis](/images/mantis-img_3789.jpg)
+![Corsica mantis](/assets/images/mantis-img_3789.jpg)
 
 A project I am working on with a friend on the evolution of dispersal led me to dig up some work on similar issues in insects. Insects are an obvious model system for those interested in these types of questions simply because of the huge variety of ways they disperse. Many people might recognize insects as “gross things with six legs and wings”. In the extreme case of dispersal limitation, some insects have lost not only the ability to fly, but lost their wings altogether. Given that the success of the insects is often attributed to their winged-ness, the loss of wings might seem like evolution gone wrong. David Wagner and James Liebherr wrote a nice review of the reasons flightlessness might be advantageous, but it was a reply to their work that really sparked my interest. (You can view those [here](/assets/Wagner_Liebherr_1992_TREE.pdf).)
 

@@ -6,7 +6,7 @@ date: 2013-06-13
 tags: [Nature]
 comments: false
 ---
-![beetle with mites](/images/img_6953-copy-beetle-mites.jpg)
+![beetle with mites](/assets/images/img_6953-copy-beetle-mites.jpg)
 
 Something I am regularly appreciative of is the bottomless depth of weirdness in the biological world. While curiosities like [the sexual relationships of anglerfish](https://en.wikipedia.org/wiki/Anglerfish#Reproduction) or [Cordyceps’ conquest of insect brains](https://www.youtube.com/watch?v=XuKjBIBBAL8) may seem unusual, weird things are always right under our noses, because in biology, strange is the norm.
 

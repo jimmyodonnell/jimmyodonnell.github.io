@@ -7,7 +7,7 @@ tags: [Costa Rica, OTS]
 comments: false
 ---
 
-![san jose](/images/san_jose_wpid-imag0169.jpg)
+![san jose](/assets/images/san_jose_wpid-imag0169.jpg)
 
 (*San José*) My last day in Costa Rica was about as uneventful as they come- always great when traveling. We packed up at La Selva this morning, and after lunch said our goodbyes and took a bus to San José. What should have been a two hour trip was actually 4.5 hours due to an accident on the winding mountain highway. Not a complete loss because I got to catch up on some work and sleep, but I would have liked a little more time to wander around the city in the daytime. We were all actually a little but disappointed by how perfect the temperature is here, because after two weeks in the heat of La Selva, we were pretty keen on jumping in the hotel pool this afternoon.
 

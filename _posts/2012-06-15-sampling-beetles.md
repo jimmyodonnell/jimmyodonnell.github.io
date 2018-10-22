@@ -6,7 +6,7 @@ tags: [OTS, Costa Rica]
 comments: false
 ---
 
-![](/images/IMG_0162_light_trap.JPG)
+![](/assets/images/IMG_0162_light_trap.JPG)
 
 I thought I'd write a post about the ways in which we've been acquiring beetles. Of course, one method is to wander around actively searching for beetles. This can be slow, but I find it to be the most interesting because you get to see the beetles in their natural habitat and learn a little bit about what they do (e.g. which plants they associate with). The beetles can either be grabbed by hand, captured in a net, or sucked up with an [aspirator](http://scene.asu.edu/habitat/equipment/illustrator/aspirator.gif). An aspirator is a small hand held device consisting of a vial, rubber stopper, and tubing. The user places his or her mouth on one piece of tubing, and sucks insects into the vial using a "kissing" motion. The other active collection method I've taken a liking to is using a "beat sheet", which is essentially a simple kite. The kite is held under some branches, and the branches are whacked with a stick, causing insects to fall onto the kite, where they are then aspirated.
 
@@ -18,12 +18,12 @@ Above: A light sheet attracts a huge number of insects.
 
 Below: A few of the moths attracted to the light sheet on a single night.
 
-![](/images/moth1.jpg)
-![](/images/moth2.jpg)
-![](/images/moth3.jpg)
-![](/images/moth4.jpg)
-![](/images/moth5.jpg)
-![](/images/moth6.jpg)
-![](/images/moth7.jpg)
-![](/images/moth8.jpg)
-![](/images/moth9.png)
+![](/assets/images/moth1.jpg)
+![](/assets/images/moth2.jpg)
+![](/assets/images/moth3.jpg)
+![](/assets/images/moth4.jpg)
+![](/assets/images/moth5.jpg)
+![](/assets/images/moth6.jpg)
+![](/assets/images/moth7.jpg)
+![](/assets/images/moth8.jpg)
+![](/assets/images/moth9.png)

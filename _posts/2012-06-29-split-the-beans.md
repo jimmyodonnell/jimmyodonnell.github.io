@@ -7,7 +7,7 @@ tags: [Food]
 comments: false
 ---
 
-![beans](/images/beans-img_1888-crop-size.jpg)
+![beans](/assets/images/beans-img_1888-crop-size.jpg)
 
 When it comes to cooking, the two things that I struggle the most to get right are rice and beans. I tend not to measure things out, and so rice turns out watery or burnt. I tend to be in a rush, and so cooking dry beans can be a challenge due to their long cooking times. Even when I do have plenty of time and follow directions (soaking etc), the most common problem is that the skin of the beans pops off during cooking. This is fine for a dish like hummus where the shape of the beans isn't important, but is not good for something like a bean salad. When the beans lose their skin, they crumble and break down, and the dish turns into a bean mush.
 
@@ -15,4 +15,4 @@ I suspect that the beans lose their skin due to being heated too quickly. The "m
 
 The moral of the story? If you want skins on your beans, soak them, heat them slowly, and let them cool to room temp in the cooking water before draining.
 
-![beans in colander](/images/beans_IMG_1865-size.JPG)
+![beans in colander](/assets/images/beans_IMG_1865-size.JPG)

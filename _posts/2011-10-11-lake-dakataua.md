@@ -6,7 +6,7 @@ modified: 2011-10-11
 tags: [Science]
 comments: false
 ---
-![](/images/lake_dakataua_googlemap.png)
+![](/assets/images/lake_dakataua_googlemap.png)
 
 Today I was gathering locality data for some clownfish samples sent to me by generous colleagues (thanks Philippe and Elizabeth!), and I came across some satellite photographs of the area I visited in Papua New Guinea near [Kimbe](https://en.wikipedia.org/wiki/Kimbe).  A large bay is created in the center of [New Britain](https://en.wikipedia.org/wiki/New_Britain) by a very long, narrow piece of land running perpendicular to the coast, called the Willaumez Peninsula.  At the end of that peninsula lies Lake Dakataua, a substantial body of freshwater likely created when rain water filled an empty volcano caldera.  When I first learned about the lake, I was curious what sort of critters lived there, but didn’t have the time or internet to look into it.  Well, when I saw the lake on a map today, I had to do a little Google research.
 

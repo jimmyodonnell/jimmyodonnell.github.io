@@ -6,7 +6,7 @@ tags: [OTS, Costa Rica]
 comments: false
 ---
 
-![eyelash viper](/images/img_0391-eyelash-viper.jpg)
+![eyelash viper](/assets/images/img_0391-eyelash-viper.jpg)
 
 *(La Selva)* Things have really gotten into a rhythm now, which is nice when doing fieldwork because it gives you a little bit more of a sense that you know what to expect. Today we collected more for our project, which entails walking around in the woods seeing lots of stuff.
 
@@ -16,4 +16,4 @@ You may have seen the segment of BBC’s Planet Earth which captured the black w
 
 *Below: A Collared Araçari (*Pteroglossus torquatus*) seen just outside the classroom.*
 
-![aracari](/images/img_0556-aracari.jpg)
+![aracari](/assets/images/img_0556-aracari.jpg)

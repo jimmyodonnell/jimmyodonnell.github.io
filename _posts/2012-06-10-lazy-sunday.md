@@ -6,7 +6,7 @@ tags: [OTS, Nature]
 comments: false
 ---
 
-![orchid](/images/img_0687-crop-orchid.jpg)
+![orchid](/assets/images/img_0687-crop-orchid.jpg)
 
 *(La Selva)* Today was quite a bit more mellow, mainly because I was dead tired. With all of the spectacular things around, you really get the sense that any time spent NOT in the forest looking around is a missed opportunity. On top of that, even walking between buildings is a chance to see something really interesting, day or night. Even lying in bed, I find myself listening intently to the intricate bird, frog, and insect calls. This makes it hard to focus on sleep, lectures, and lab work. However, I have no trouble maintaining my focus on food, as the meals here are great!
 
@@ -18,4 +18,4 @@ Sitings: I am now noticing that Rufous Tailed Hummingbirds are common near the d
 
 *Below: A wasp nest with an interesting shape, and a texture resembling brie.*
 
-![wasp nest](/images/IMG_0323-wasp-nest.jpg)
+![wasp nest](/assets/images/IMG_0323-wasp-nest.jpg)

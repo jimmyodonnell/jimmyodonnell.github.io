@@ -8,7 +8,7 @@ comments: false
 image: 
 ---
 
-![Amphiprion sebae](/images/sebae-8205779846_fbb9cfa458.jpeg)
+![Amphiprion sebae](/assets/images/sebae-8205779846_fbb9cfa458.jpeg)
 
 *Above: _Amphiprion sebae_ in Java. From Flickr user [Daniel Stoker](https://www.flickr.com/photos/danielstoker/8205779846/in/set-72157632061919395).*
 
@@ -22,4 +22,4 @@ My intent here is not to rag on these data, but to encourage the practice of pro
 
 *Below: Amphiprion clarkii in Java. From Flickr user divemecressi.*
 
-![Amphiprion clarkii](/images/clarkii-5603328821_d9c487e03c.jpg)
+![Amphiprion clarkii](/assets/images/clarkii-5603328821_d9c487e03c.jpg)

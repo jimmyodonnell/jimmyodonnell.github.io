@@ -11,4 +11,4 @@ I’m working with an awesome group of folks at NOAA’s [Northwest Fisheries Sc
 
 To do this, I needed to set up some transects running away from a known DNA source along which we could collect water samples from a boat. I knew (1) where I wanted to start each transect, (2) what direction I wanted the transects to run, and (3) what distances along the transects I wanted to sample. I needed to get coordinates for sampling point along the transects–nothing too complicated, just some simple “SOH-CAH-TOA” with the twist of sampling on a round surface (the earth). As is often the case, I wrote some really sloppy code myself before stumbling on exactly the function I needed: [destPoint](http://www.inside-r.org/packages/cran/geosphere/docs/destPoint) in the very useful R package [geosphere](https://cran.r-project.org/web/packages/geosphere/index.html). It’s incredibly simple, and you can find some code demonstrating its usage over [here](https://gist.github.com/jimmyodonnell/f702fb7f229fdf529728) on my GitHub page.
 
-![transects](/images/transects.png)
+![transects](/assets/images/transects.png)
