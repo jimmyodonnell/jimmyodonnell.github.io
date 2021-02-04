@@ -14,5 +14,5 @@ These are some recipes.
 
 
 ## Cocktails
-- [Hemingway Daquiri](hemingway-daquiri.md)
+- [Hemingway Daquiri](recipes/hemingway-daquiri.md)
 
