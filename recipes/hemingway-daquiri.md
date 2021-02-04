@@ -7,21 +7,18 @@ modified: 2021-02-04
 tags: [Cocktails, Rum]
 comments: false
 ---
-![marion dufresne](/assets/images/img_3834_marion_dufresne.jpg)
+![hemingway daiquiri](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hemingway_Daiquiri.jpg/720px-Hemingway_Daiquiri.jpg)
 
 
 Ingredients
 
-    2 ounces white rum
-    1/2 ounce maraschino liqueur
-    3/4 ounce lime juice, freshly squeezed
-    1/2 ounce grapefruit juice, freshly squeezed
-    Garnish: lime wheel
+- [ ] 2 ounces white rum
+- [ ] 1/2 ounce maraschino liqueur
+- [ ] 3/4 ounce lime juice, freshly squeezed
+- [ ] 1/2 ounce grapefruit juice, freshly squeezed
+- [ ] Garnish: lime wheel
 
 Steps
 
-    Add the white rum, maraschino liqueur, lime juice and grapefruit juice into a shaker with ice and shake until well chilled.
-
-    Strain into a coupe glass over crushed ice.
-
-    Garnish with a lime wheel. 
+1. Shake all ingredients over ice.
+2. Strain into a coupe glass over crushed ice. Garnish with a lime.
