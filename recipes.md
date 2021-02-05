@@ -3,6 +3,8 @@ title: Recipes
 layout: page
 ---
 
+# Recipes
+
 These are some recipes.
 
 ## Mains
@@ -14,5 +16,5 @@ These are some recipes.
 
 
 ## Cocktails
-- [Hemingway Daquiri](recipes/hemingway-daquiri.md)
+- [Hemingway Daiquiri](recipes/hemingway-daiquiri.md)
 
