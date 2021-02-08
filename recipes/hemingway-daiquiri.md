@@ -17,6 +17,13 @@ comments: false
 - 3/4 ounce lime juice, freshly squeezed
 - 1/2 ounce grapefruit juice, freshly squeezed
 
+| Ingredient | Amount |
+| ---------- | ------ |
+| rum   | 2 oz |
+| lime juice | 3/4 oz |
+| grapefruit juice | 1/2 oz |
+| maraschino liqueur | 1/2 oz |
+
 
 ### Steps
 
