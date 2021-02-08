@@ -12,11 +12,10 @@ comments: false
 
 ### Ingredients
 
-- [ ] 2 ounces white rum
-- [ ] 1/2 ounce maraschino liqueur
-- [ ] 3/4 ounce lime juice, freshly squeezed
-- [ ] 1/2 ounce grapefruit juice, freshly squeezed
-- [ ] Garnish: lime wheel
+- 2 ounces white rum
+- 1/2 ounce maraschino liqueur
+- 3/4 ounce lime juice, freshly squeezed
+- 1/2 ounce grapefruit juice, freshly squeezed
 
 
 ### Steps
