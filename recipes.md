@@ -12,7 +12,7 @@ These are some recipes.
 
 
 ## Sides
-- Rice
+- [Rice](recipes/rice.md)
 
 
 ## Cocktails
