@@ -29,3 +29,9 @@ comments: false
 
 1. Shake all ingredients over ice.
 2. Strain into a coupe glass over crushed ice. Garnish with a lime.
+
+
+- *Mix*: Shake
+- *Glass*: Coupe
+- *Over Ice*: Yes
+- *Garnish*: Lime
