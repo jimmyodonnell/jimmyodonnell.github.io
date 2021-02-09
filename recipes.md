@@ -8,7 +8,7 @@ layout: page
 These are some recipes.
 
 ## Mains
-- Hamb
+- [Hamb](recipes/hamb.md)
 
 
 ## Sides
