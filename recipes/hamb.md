@@ -1,10 +1,10 @@
 ---
 layout: post
 category: blog
-title: Hemingway Daiquiri
+title: Hamb
 excerpt:
-modified: 2021-02-04
-tags: [Cocktails, Rum]
+modified: 2021-02-08
+tags: [Hamb, Wet Food, Human Food]
 comments: false
 ---
 
