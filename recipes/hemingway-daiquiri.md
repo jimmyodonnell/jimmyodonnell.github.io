@@ -12,12 +12,6 @@ comments: false
 
 ### Ingredients
 
-- 2 oz white rum
-- 1/2 oz maraschino liqueur
-- 3/4 oz lime juice, freshly squeezed
-- 1/2 oz grapefruit juice, freshly squeezed
-
-| Ingredient | Amount |
 | ---------- | ------ |
 | rum   | 60 mL |
 | grapefruit juice | 40 mL |
@@ -25,7 +19,7 @@ comments: false
 | maraschino liqueur | 15 mL |
 
 
-### Steps
+### Method
 
 1. Shake all ingredients over ice.
 2. Strain into a coupe glass over crushed ice. Garnish with a lime.
@@ -37,17 +31,11 @@ comments: false
 - **Garnish**: Lime
 
 
-| How | What |
 | ----- | ----- |
 | mix   | shake |
 | glassware | cocktail |
 | over ice | no |
 | garnish | lime |
-
-
-| ---------- | ------ |
-| row1   | col2 |
-| no | header |
 
 
 ### Source
