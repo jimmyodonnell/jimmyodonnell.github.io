@@ -13,11 +13,10 @@ comments: false
 ### Ingredients
 
 | ---------- | ------ |
-| rum   | 60 mL |
-| grapefruit juice | 40 mL |
-| lime juice | 15 mL |
-| maraschino liqueur | 15 mL |
-
+| 60 mL | rum   |
+| 40 mL | grapefruit juice |
+| 15 mL | lime juice |
+| 15 mL | maraschino liqueur |
 
 ### Method
 
