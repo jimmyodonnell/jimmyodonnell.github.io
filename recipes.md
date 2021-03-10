@@ -17,6 +17,10 @@ These are some recipes.
 - [Peanut Sauce](recipes/peanut-sauce.md)
 
 
+## Sauces and Such
+- [Garam Masala](recipes/garam-masala.md)
+
+
 ## Cocktails
 - [Hemingway Daiquiri](recipes/hemingway-daiquiri.md)
 
