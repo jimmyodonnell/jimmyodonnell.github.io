@@ -12,12 +12,12 @@ comments: false
 
 | ---------- | ------ |
 | 6 | cloves |
-| 5 tsps | cumin seeds |
+| 5 tsp | cumin seeds |
 | 4 | green cardamom pods |
 | 3 | black cardamom pods |
 | 1 | cinnamon stick |
-| 2 tsps | coriander seeds |
-| 1-2 tsps | black peppercorns (to taste, if you like it spicy, add more) |
+| 2 tsp | coriander seeds |
+| 1-2 tsp | black peppercorns (to taste, if you like it spicy, add more) |
 | 1/2 tsp | grated nutmeg (to taste) |
 
 
