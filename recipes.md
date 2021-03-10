@@ -8,11 +8,13 @@ layout: page
 These are some recipes.
 
 ## Mains
+- [Chana Masala](recipes/chana-masala.md)
 - [Hamb](recipes/hamb.md)
 
 
 ## Sides
 - [Rice](recipes/rice.md)
+- [Peanut Sauce](recipes/peanut-sauce.md)
 
 
 ## Cocktails
