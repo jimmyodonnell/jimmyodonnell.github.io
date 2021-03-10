@@ -26,7 +26,7 @@ comments: false
 | A pinch | cayenne, or to taste |
 | 2 | 15-ounce cans chickpeas, drained and rinsed |
 | 6-8 Tbs | plain whole-milk yogurt, optional |
-| A few | lemon wedges, optional |
+|  | lemon wedges, optional |
 
 ### Steps
 
