@@ -5,7 +5,7 @@ layout: page
 
 # Recipes
 
-These are some recipes.
+These are some recipes. You can read the [preface](recipes/preface.md) for some context and disclaimers.
 
 
 ## Drinks
