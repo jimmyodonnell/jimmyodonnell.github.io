@@ -7,24 +7,21 @@ layout: page
 
 These are some recipes.
 
-## Mains
+
+## Drinks
+- [Hemingway Daiquiri](recipes/hemingway-daiquiri.md)
+
+## Mains and Sides
 - [Chana Masala](recipes/chana-masala.md)
-- [Hamb](recipes/hamb.md)
-
-
-## Sides
 - [Rice](recipes/rice.md)
-- [Peanut Sauce](recipes/peanut-sauce.md)
+- [Hamb](recipes/hamb.md)
 
 
 ## Sauces and Such
 - [Garam Masala](recipes/garam-masala.md)
+- [Peanut Sauce](recipes/peanut-sauce.md)
 
 
 ## Desserts
 - [Passionfruit Cheesecake](recipes/cheesecake-passionfruit.md)
-
-
-## Cocktails
-- [Hemingway Daiquiri](recipes/hemingway-daiquiri.md)
 
