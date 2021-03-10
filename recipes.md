@@ -21,6 +21,10 @@ These are some recipes.
 - [Garam Masala](recipes/garam-masala.md)
 
 
+## Desserts
+- [Passionfruit Cheesecake](recipes/passionfruit-cheesecake.md)
+
+
 ## Cocktails
 - [Hemingway Daiquiri](recipes/hemingway-daiquiri.md)
 
