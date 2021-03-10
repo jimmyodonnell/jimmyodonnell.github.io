@@ -30,9 +30,11 @@
             {% endif %}
         {% endif %}
 
-        <li class="item">
-            <a class="link" href="{{ site.url }}/recipes">Recipes</a>
-        </li>
+        {% if page.title != "Recipes" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/recipes">Recipes</a>
+            </li>
+        {% endif %}
 
         {% if site.resume == true %}
             <li class="item">
