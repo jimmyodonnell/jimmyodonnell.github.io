@@ -1,3 +1,8 @@
+---
+title: Preface
+layout: page
+---
+
 This is a collection of recipes we make on a regular basis.
 
 ### Why?
@@ -8,6 +13,7 @@ My favorite format for following a recipe in the kitchen is the good old-fashion
 
 ![cluttered recipe](../assets/images/cluttered-recipe.png)
 
+To top it off, if you're an ancient being like myself, you've been hoarding recipes long enough that the original source website eventually disappears. Bookmarking other people's URLs won't cut it in this situation.
 
 ### Some notes and caveats
 - Lots of people might say "any serious cook needs a kitchen scale", but I disagree - _every_ cook needs a kitchen scale! I use it primarily to reduce the number of things I need to wash, but it also helps in making recipes more consistent.

@@ -4,7 +4,7 @@ category: blog
 title: Garam Masala
 excerpt:
 modified: 2021-03-09
-tags: [Sauces, Other]
+tags: [S Asia, Other]
 comments: false
 ---
 

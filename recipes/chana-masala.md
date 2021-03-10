@@ -4,7 +4,7 @@ category: blog
 title: Chana Masala
 excerpt:
 modified: 2021-03-09
-tags: [Indian, Mains]
+tags: [S Asia, Mains]
 comments: false
 ---
 
