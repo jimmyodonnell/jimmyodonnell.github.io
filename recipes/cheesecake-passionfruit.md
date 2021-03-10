@@ -17,6 +17,7 @@ comments: false
 - Bake at 350 for 7 minutes.
 
 ### Filling
+
 | ---------- | ------ |
 | 32 oz | cream cheese |
 | 1.5 cups | sugar |
@@ -35,6 +36,7 @@ comments: false
 - Bake in water bath for 60 minutes at 350F
 
 ### Topping
+
 | ---------- | ------ |
 | 1 cup | guava puree |
 | ~0.5 oz | lime juice |
