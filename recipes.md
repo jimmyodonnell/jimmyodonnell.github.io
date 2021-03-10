@@ -15,6 +15,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Chana Masala](recipes/chana-masala.md)
 - [Rice](recipes/rice.md)
 - [Hamb](recipes/hamb.md)
+- [Pad Thai](recipes/pad-thai.md)
 
 
 ## Sauces and Such
