@@ -22,7 +22,7 @@ These are some recipes.
 
 
 ## Desserts
-- [Passionfruit Cheesecake](recipes/passionfruit-cheesecake.md)
+- [Passionfruit Cheesecake](recipes/cheesecake-passionfruit.md)
 
 
 ## Cocktails
