@@ -52,6 +52,7 @@ Makes enough for two 10- by 2-inch round cake pans
 
 ### Ermine (Cooked Flour) Frosting
 
+#### Serious Eats Version:
 | --- | --- |
 | 1 ounce (about 3 tablespoons plus 2 teaspoons; 28g) | all-purpose flour |
 | 6 ounces (about 3/4 cup; 170g) | milk, any percentage will do |
@@ -76,6 +77,40 @@ Makes enough for two 10- by 2-inch round cake pans
 - _Troubleshooting_: If the frosting feels dense, stiff, greasy, or curdled, it is likely too cold; to warm, briefly set over a pan of steaming water, just until you see the edges melting slightly, then re-whip. If the frosting feels soft and loose, it is likely too warm. Pop it in the fridge for 15 minutes to cool, then re-whip.
 
 
-
 #### Source:
 [Serious Eats](https://www.seriouseats.com/flour-frosting-recipe)
+
+#### Wilton Version
+[From here](https://www.wilton.com/easy-ermine-frosting-recipe/WLRECIP-8801.html)
+- 1 cup granulated sugar
+- 1/4 cup all-purpose flour
+- 1/4 teaspoon salt
+- 1 cup milk
+- 1 cup butter, softened
+- 1 teaspoon vanilla extract
+
+- In a medium saucepan, stir together sugar, flour, salt. Whisk in milk until smooth.
+- Cook over medium heat, whisking constantly, until very thick, about 5-7 minutes.
+- Remove from heat, pour into bowl or plate and cover with plastic wrap to cool.
+- Once cooled, beat butter at medium speed for 5 minutes or until light and fluffy.
+- Add milk mixture a tablespoon at a time, beating until smooth, and scraping down sides often.
+- Add vanilla and beat for 3 more minutes, or until it reaches the consistency of whipped cream.
+
+- This recipe makes about enough ermine frosting to cover and decorate a single 6-inch round cake.
+
+
+
+
+
+### Cream Cheese Frosting
+
+- 0.5 cup butter, softened
+- 8 ounces cream cheese
+- 4 cups powdered sugar
+- 2 tsp vanilla extract
+
+- Beat softened butter and cream cheese until well blended.
+- Add powdered sugar and vanilla. Beat until creamy.
+
+#### Source:
+[Allrecipes: Basic Cream Cheese Frosting](https://www.allrecipes.com/recipe/8379/basic-cream-cheese-frosting/)
