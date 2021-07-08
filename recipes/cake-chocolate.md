@@ -65,7 +65,7 @@ comments: false
 | 1 cup | well-shaken buttermilk |
 | 1/2 tsp | vanilla |
 
-- 2021-07-08: Used the 2/3 amounts specified above (105 in²) for each layer of 9*13 cake (117 in²) 
+- 2021-07-08: Used the 2/3 amounts specified above (105 in²) for each layer of 9*13 cake (117 in²).
 
 
 - Proportions for two 8" round pans, from [The Merry Gourmet blog](https://www.merrygourmet.com/2012/03/making-changes-a-recipe-chocolate-cake-with-vanilla-buttercream-frosting).
