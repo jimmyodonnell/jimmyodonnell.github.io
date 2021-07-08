@@ -13,9 +13,9 @@ comments: false
 | --- | --- |
 | 4-1/2 sticks | unsalted butter, softened |
 | 4-1/2 cups | confectioners' sugar |
-| 1/8 teaspoon | coarse salt |
-| 4 tablespoons | heavy cream |
-| 2 teaspoons | vanilla extract |
+| 1/8 tsp | coarse salt |
+| 4 TBSP | heavy cream |
+| 2 tsp | vanilla extract |
 
 - Enough for a double layer 8 inch cake
 
@@ -27,10 +27,11 @@ Pretty standard proportions, but this came from [The Merry Gourmet blog](https:/
 
 ### Cream Cheese Frosting
 
-- 0.5 cup butter, softened
-- 8 ounces cream cheese
-- 4 cups powdered sugar
-- 2 tsp vanilla extract
+| --- | --- |
+| 0.5 cup | butter, softened |
+| 8 oz | cream cheese |
+| 4 cups | powdered sugar |
+| 2 tsp | vanilla extract |
 
 - Beat softened butter and cream cheese until well blended.
 - Add powdered sugar and vanilla. Beat until creamy.
@@ -42,14 +43,13 @@ Pretty standard proportions, but this came from [The Merry Gourmet blog](https:/
 ### Chocolate Ganache Frosting
 
 | ---------- | ------ |
-| 1 pound (455g) | fine-quality semisweet chocolate such as Callebaut |
+| 16 oz (455g) | high quality dark/semisweet chocolate |
 | 1 cup (235 ml) | heavy cream |
-| 2 tablespoons (25g) | sugar |
-| 2 tablespoons (40g) | light corn syrup |
+| 2 TBSP (25g) | sugar |
+| 2 TBSP (40g) | light corn syrup |
 | 1/2 stick (1/4 cup, 55g) | unsalted butter |
 
 Makes enough for two 10- by 2-inch round cake pans
-
 
 - Finely chop chocolate. In a 1 1/2- to 2-quart saucepan bring cream, sugar, and corn syrup to a boil over moderately low heat, whisking until sugar is dissolved. Remove pan from heat and add chocolate, whisking until chocolate is melted.
 - Cut butter into pieces and add to frosting, whisking until smooth.
@@ -70,14 +70,16 @@ Makes enough for two 10- by 2-inch round cake pans
 [Serious Eats Flour Frosting (a.k.a. Ermine Frosting) Recipe](https://www.seriouseats.com/flour-frosting-recipe)
 
 | --- | --- |
-| 6 ounces (about 3/4 cup; 170g) | milk, any percentage will do |
-| 1 ounce (28g) | all-purpose flour |
-| 3 1/4 ounces (96g) | plain or toasted sugar |
-| 6 ounces (160g) | unsalted butter, softened to about 65°F (18°C) |
-| Heaping 1/4 teaspoon (1.5g) | Diamond Crystal kosher salt, plus more to taste; for table salt, use about half as much by volume or the same weight |
-| 1/4 ounce (1 1/2 teaspoons; 7g), plus more to taste | vanilla extract |
+| 6 oz (170g) | milk, any percentage |
+| 1 oz (28g) | all-purpose flour |
+| 3 1/4 oz (96g) | sugar |
+| 6 oz (160g) | butter, room temp |
+| Heaping 1/4 tsp (1.5g) | Diamond Crystal kosher salt* |
+| 1.5 tsp (7g) | vanilla extract |
 
 Proportions of milk, butter, sugar, flour: 0.37 + 0.35 + 0.21 + 0.06
+
+*_salt_: plus more to taste; for table salt, use about half as much by volume or the same weight
 
 - In a 10-inch skillet or 3-quart saucier, whisk together flour and milk.
 - Place over medium heat, whisking constantly, and cook until thick and pudding-like, about 2 minutes.
@@ -105,8 +107,8 @@ Proportions of milk, butter, sugar, flour: 0.37 + 0.35 + 0.21 + 0.06
 | 1/4 cup | all-purpose flour |
 | 1 cup | granulated sugar |
 | 1 cup | butter, softened |
-| 1/4 teaspoon | salt |
-| 1 teaspoon | vanilla extract |
+| 1/4 tsp | salt |
+| 1 tsp | vanilla extract |
 
 Proportions of milk, butter, sugar, flour: 0.33 + 0.33 + 0.29 + 0.04
 
@@ -126,8 +128,8 @@ Proportions of milk, butter, sugar, flour: 0.33 + 0.33 + 0.29 + 0.04
 | 1 cup (227g) | whole milk |
 | 1/4 cup (30g) | All-Purpose Flour |
 | 3/4 cup (149g) | granulated sugar |
-| 12 tablespoons (170g) | butter, softened (about 70°F) |
-| 2 teaspoons | vanilla extract |
+| 12 TBSP (170g) | butter, softened (about 70°F) |
+| 2 tsp | vanilla extract |
 
 Proportions of milk, butter, sugar, flour: 0.39 + 0.29 + 0.26 + 0.05
 
@@ -147,5 +149,14 @@ Proportions of milk, butter, sugar, flour: 0.39 + 0.29 + 0.26 + 0.05
 
 - Use as desired to finish the cake or cupcakes of your choice; you’ll have enough for a single-layer cake or a dozen cupcakes. Double the recipe to frost an 8” or 9” layer cake or 2 dozen cupcakes. To frost a 9” x 13” sheet cake, increase the ingredient amounts by half (i.e., multiply current amounts by 1.5). 
 
+#### Notes:
+- 2021-07-09: For Calvin's birthday, I used King Arthur proportions but using Serious Eats methodology. Did two layers of 9 x 13, so tripled the frosting recipe:
+
+| --- | --- |
+| 3 cup (681 g) | whole milk |
+| 3/4 cup (90 g) | All-Purpose Flour |
+| 2.25 cup (450 g) | granulated sugar |
+| 36 TBSP (510 g) 4.5 sticks | butter, softened (about 70°F) |
+| 2 TBSP | vanilla extract |
 
 
