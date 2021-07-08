@@ -25,6 +25,20 @@ Pretty standard proportions, but this came from [The Merry Gourmet blog](https:/
 
 
 
+### Cream Cheese Frosting
+
+- 0.5 cup butter, softened
+- 8 ounces cream cheese
+- 4 cups powdered sugar
+- 2 tsp vanilla extract
+
+- Beat softened butter and cream cheese until well blended.
+- Add powdered sugar and vanilla. Beat until creamy.
+
+#### Source:
+[Allrecipes: Basic Cream Cheese Frosting](https://www.allrecipes.com/recipe/8379/basic-cream-cheese-frosting/)
+
+
 ### Chocolate Ganache Frosting
 
 | ---------- | ------ |
@@ -53,13 +67,17 @@ Makes enough for two 10- by 2-inch round cake pans
 ### Ermine (Cooked Flour) Frosting
 
 #### Serious Eats Version:
+[Serious Eats Flour Frosting (a.k.a. Ermine Frosting) Recipe](https://www.seriouseats.com/flour-frosting-recipe)
+
 | --- | --- |
-| 1 ounce (about 3 tablespoons plus 2 teaspoons; 28g) | all-purpose flour |
 | 6 ounces (about 3/4 cup; 170g) | milk, any percentage will do |
+| 1 ounce (28g) | all-purpose flour |
 | 3 1/4 ounces (96g) | plain or toasted sugar |
-| Heaping 1/4 teaspoon (1.5g) | Diamond Crystal kosher salt, plus more to taste; for table salt, use about half as much by volume or the same weight |
 | 6 ounces (160g) | unsalted butter, softened to about 65°F (18°C) |
+| Heaping 1/4 teaspoon (1.5g) | Diamond Crystal kosher salt, plus more to taste; for table salt, use about half as much by volume or the same weight |
 | 1/4 ounce (1 1/2 teaspoons; 7g), plus more to taste | vanilla extract |
+
+Proportions of milk, butter, sugar, flour: 0.37 + 0.35 + 0.21 + 0.06
 
 - In a 10-inch skillet or 3-quart saucier, whisk together flour and milk.
 - Place over medium heat, whisking constantly, and cook until thick and pudding-like, about 2 minutes.
@@ -76,18 +94,21 @@ Makes enough for two 10- by 2-inch round cake pans
 
 - _Troubleshooting_: If the frosting feels dense, stiff, greasy, or curdled, it is likely too cold; to warm, briefly set over a pan of steaming water, just until you see the edges melting slightly, then re-whip. If the frosting feels soft and loose, it is likely too warm. Pop it in the fridge for 15 minutes to cool, then re-whip.
 
-
-#### Source:
-[Serious Eats](https://www.seriouseats.com/flour-frosting-recipe)
+##### Notes:
+2021-05: Made this and it was really not very sweet. I would have preferred it to be sweeter when paired with the dark chocolate cake (/recipes/cake-chocolate).
 
 #### Wilton Version
-[From here](https://www.wilton.com/easy-ermine-frosting-recipe/WLRECIP-8801.html)
-- 1 cup granulated sugar
-- 1/4 cup all-purpose flour
-- 1/4 teaspoon salt
-- 1 cup milk
-- 1 cup butter, softened
-- 1 teaspoon vanilla extract
+[Wilton Easy Ermine Frosting Recipe](https://www.wilton.com/easy-ermine-frosting-recipe/WLRECIP-8801.html)
+
+| --- | --- |
+| 1 cup | milk |
+| 1/4 cup | all-purpose flour |
+| 1 cup | granulated sugar |
+| 1 cup | butter, softened |
+| 1/4 teaspoon | salt |
+| 1 teaspoon | vanilla extract |
+
+Proportions of milk, butter, sugar, flour: 0.33 + 0.33 + 0.29 + 0.04
 
 - In a medium saucepan, stir together sugar, flour, salt. Whisk in milk until smooth.
 - Cook over medium heat, whisking constantly, until very thick, about 5-7 minutes.
@@ -95,22 +116,36 @@ Makes enough for two 10- by 2-inch round cake pans
 - Once cooled, beat butter at medium speed for 5 minutes or until light and fluffy.
 - Add milk mixture a tablespoon at a time, beating until smooth, and scraping down sides often.
 - Add vanilla and beat for 3 more minutes, or until it reaches the consistency of whipped cream.
-
 - This recipe makes about enough ermine frosting to cover and decorate a single 6-inch round cake.
 
 
+#### King Arthur Version
+[King Arthur Ermine Frosting](https://www.kingarthurbaking.com/recipes/ermine-icing-cooked-flour-frosting-recipe)
+
+| --- | --- |
+| 1 cup (227g) | whole milk |
+| 1/4 cup (30g) | All-Purpose Flour |
+| 3/4 cup (149g) | granulated sugar |
+| 12 tablespoons (170g) | butter, softened (about 70°F) |
+| 2 teaspoons | vanilla extract |
+
+Proportions of milk, butter, sugar, flour: 0.39 + 0.29 + 0.26 + 0.05
+
+- In a medium saucepan, whisk together the sugar and flour.
+
+- Add the milk and cook over medium heat, whisking constantly, until the mixture comes to a boil and has thickened to a pudding-like consistency, about 3 to 6 minutes.
+
+- Remove from the heat and transfer the mixture to the bowl of a stand mixer fitted with the beater attachment. Beat at medium-high speed for about 10 to 15 minutes, until it's below 80°F.
+
+- Reduce the speed to low and, with the mixer running, add the butter a few tablespoons at a time. Scrape down the sides of the bowl as needed, to make sure the butter is thoroughly incorporated.
+
+- Once all the butter has been mixed in, add the vanilla.  
+
+- Increase the mixer speed to high. Beat the frosting for 4 to 6 minutes, until it’s light and fluffy.
+
+- If the frosting feels dense, curdled, or greasy, it’s too cold. Gently warm the mixture by setting the bowl over a pan of steaming-hot water for a few minutes (just until you see the edges begin to soften/melt), then re-whip until smooth. If the frosting feels soupy or loose, it’s too warm. Chill for 15 to 20 minutes in the refrigerator before re-whipping.
+
+- Use as desired to finish the cake or cupcakes of your choice; you’ll have enough for a single-layer cake or a dozen cupcakes. Double the recipe to frost an 8” or 9” layer cake or 2 dozen cupcakes. To frost a 9” x 13” sheet cake, increase the ingredient amounts by half (i.e., multiply current amounts by 1.5). 
 
 
 
-### Cream Cheese Frosting
-
-- 0.5 cup butter, softened
-- 8 ounces cream cheese
-- 4 cups powdered sugar
-- 2 tsp vanilla extract
-
-- Beat softened butter and cream cheese until well blended.
-- Add powdered sugar and vanilla. Beat until creamy.
-
-#### Source:
-[Allrecipes: Basic Cream Cheese Frosting](https://www.allrecipes.com/recipe/8379/basic-cream-cheese-frosting/)
