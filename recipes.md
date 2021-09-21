@@ -23,6 +23,10 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Peanut Sauce](recipes/peanut-sauce.md)
 
 
+## Breads, Muffins, and Such
+- [Blueberry Muffins](recipes/muffins-blueberry.md)
+
+
 ## Desserts
 - [Passionfruit Cheesecake](recipes/cheesecake-passionfruit.md)
 - [Chocolate Cake](recipes/cake-chocolate.md)

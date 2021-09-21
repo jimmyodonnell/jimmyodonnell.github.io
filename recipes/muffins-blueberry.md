@@ -11,20 +11,22 @@ comments: false
 Mom's Blueberry Muffins
 
 | ---------- | ------ |
-| 1 cup | oats |
-| 1 cup | whole wheat flour |
-| 1/2 cup | all purpose flour |
+| 1 cup (90 g) | oats |
+| 1 cup (113 g) | whole wheat flour |
+| 1/2 cup (60 g) | all purpose flour |
 | 2 tsp | baking powder |
 | 1/2 tsp | baking soda |
 | 1/2 tsp | salt |
-| 1/4 cup plus 1 tbsp | brown sugar |
-| 1 cup | buttermilk |
-| 1/4 cup | orange juice |
-| 2 tbsp | canola oil |
+| 1/4 cup (50 g) | brown sugar |
+| 1 cup (227 g) | buttermilk |
+| 1/4 cup (60 g) | orange juice |
+| 2 tbsp (25 g) | canola oil |
 | 1 | egg |
 | 1 tsp | vanilla extract |
-| 2 cup | blueberries |
-| 1/4 cup | almonds, chopped |
+| 2 cup (~300 g) | blueberries |
+| 1/4 cup (30g) | almonds, chopped |
+| 1 TBSP | sugar (coarse, brown, or white) |
+
 
 - Preheat oven to 400ºF
 
