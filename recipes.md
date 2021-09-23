@@ -31,3 +31,4 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Passionfruit Cheesecake](recipes/cheesecake-passionfruit.md)
 - [Chocolate Cake](recipes/cake-chocolate.md)
 - [Cake Frostings](recipes/cake-frosting.md)
+- [Hummingbird Cake](recipes/cake-hummingbird.md)
