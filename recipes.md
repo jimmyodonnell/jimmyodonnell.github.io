@@ -12,6 +12,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Hemingway Daiquiri](recipes/cocktail-hemingwaydaiquiri.md)
 - [Coin Toss](recipes/cocktail-cointoss.md)
 - [Greenpoint](recipes/cocktail-greenpoint.md)
+- [Jungle Bird](recipes/cocktail-junglebird.md)
 
 
 ## Mains and Sides
