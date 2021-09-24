@@ -33,7 +33,7 @@ comments: false
 | ----- | ----- |
 | mix   | shake |
 | glassware | cocktail |
-| over ice | no |
+| over ice | yes |
 | garnish | lime |
 
 
