@@ -14,6 +14,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Greenpoint](recipes/cocktail-greenpoint.md)
 - [Jungle Bird](recipes/cocktail-junglebird.md)
 - [Singapore Sling](recipes/cocktail-singaporesling.md)
+- [Paris Manhattan](recipes/cocktail-parismanhattan.md)
 
 
 ## Mains and Sides
