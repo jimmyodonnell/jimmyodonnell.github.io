@@ -11,7 +11,7 @@ comments: false
 
 ### Ingredients
 
-| Ingredient | Liquor.com | DeGroff |
+|  | Liquor.com | DeGroff |
 | ---------- | ------ | --- |
 | gin | 22.5 mL | 45 mL |
 | Benedictine | 7.5 mL | 7.5 mL |
