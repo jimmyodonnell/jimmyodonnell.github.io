@@ -9,7 +9,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 
 
 ## Drinks
-- [Hemingway Daiquiri](recipes/cocktails-hemingwaydaiquiri.md)
+- [Hemingway Daiquiri](recipes/cocktail-hemingwaydaiquiri.md)
 - [Coin Toss](recipes/cocktail-cointoss.md)
 
 ## Mains and Sides
