@@ -13,6 +13,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Coin Toss](recipes/cocktail-cointoss.md)
 - [Greenpoint](recipes/cocktail-greenpoint.md)
 - [Jungle Bird](recipes/cocktail-junglebird.md)
+- [Singapore Sling](recipes/cocktail-singaporesling.md)
 
 
 ## Mains and Sides
