@@ -22,7 +22,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Rice](recipes/rice.md)
 - [Hamb](recipes/hamb.md)
 - [Pad Thai](recipes/pad-thai.md)
-
+- [Pizza: Grandma Style](recipes/pizza-pan.md)
 
 ## Sauces and Such
 - [Garam Masala](recipes/garam-masala.md)
