@@ -26,9 +26,12 @@ comments: false
 
 5. Cover dough on baking sheet tightly with plastic wrap and let sit in a warm place (but not too warm!—about 70° is ideal for yeast to grow) until it is puffed and full of air bubbles, 30–40 minutes.
 
+6. Once dough is ready, preheat oven to 500ºF while you add toppings. For this style of pizza I like to do cheese first, top it with sauce, then other stuff. You will probably need about 16 oz of sauce and 8 to 16 oz of cheese.
+
+7. Bake at 500ºF for about 30-40 minutes.
 
 #### Source:
 [Bon Appetit Grandma Style Pizza Dough](https://www.bonappetit.com/recipe/grandma-style-pizza-dough)
 
 #### Notes:
-
+- A darker pan is best, as it makes for a darker crust.
