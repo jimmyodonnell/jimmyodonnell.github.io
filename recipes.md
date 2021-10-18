@@ -15,7 +15,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Jungle Bird](recipes/cocktail-junglebird.md)
 - [Singapore Sling](recipes/cocktail-singaporesling.md)
 - [Paris Manhattan](recipes/cocktail-parismanhattan.md)
-
+- [Bijou](recipes/cocktail-bijou.md)
 
 ## Mains and Sides
 - [Chana Masala](recipes/chana-masala.md)
