@@ -23,6 +23,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Hamb](recipes/hamb.md)
 - [Pad Thai](recipes/pad-thai.md)
 - [Pizza: Grandma Style](recipes/pizza-pan.md)
+- [Eggplant Lentil Stew](recipes/eggplant-lentil-stew.md)
 
 ## Sauces and Such
 - [Garam Masala](recipes/garam-masala.md)
