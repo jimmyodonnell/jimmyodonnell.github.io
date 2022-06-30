@@ -24,15 +24,15 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Pad Thai](recipes/pad-thai.md)
 - [Pizza: Grandma Style](recipes/pizza-pan.md)
 - [Eggplant Lentil Stew](recipes/eggplant-lentil-stew.md)
+- [Bolognese Sauce](recipes/bolognese.md)
+- [Butternut Squash Soup](recipes/soup-butternut-squash.md)
 
 ## Sauces and Such
 - [Garam Masala](recipes/garam-masala.md)
 - [Peanut Sauce](recipes/peanut-sauce.md)
 
-
 ## Breads, Muffins, and Such
 - [Blueberry Muffins](recipes/muffins-blueberry.md)
-
 
 ## Desserts
 - [Passionfruit Cheesecake](recipes/cheesecake-passionfruit.md)
