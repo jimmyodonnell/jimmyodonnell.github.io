@@ -40,3 +40,5 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Cake Frostings](recipes/cake-frosting.md)
 - [Hummingbird Cake](recipes/cake-hummingbird.md)
 - [Pie Crust](recipes/pie-crust.md)
+- [Shortcake](recipes/shortcake.md)
+
