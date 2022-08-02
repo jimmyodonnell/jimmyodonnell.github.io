@@ -33,6 +33,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 
 ## Breads, Muffins, and Such
 - [Blueberry Muffins](recipes/muffins-blueberry.md)
+- [Waffles](recipes/waffles.md)
 
 ## Desserts
 - [Passionfruit Cheesecake](recipes/cheesecake-passionfruit.md)
