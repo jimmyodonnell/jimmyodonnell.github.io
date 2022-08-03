@@ -4,12 +4,11 @@ category: blog
 title: Waffles
 excerpt:
 modified: 2022-08-02
-tags: [breakfast, tag2]
+tags: [breakfast]
 comments: false
 ---
 
 | ---------- | ------ |
-| amount | ingredient |
 | 2 ¼ cups (510 g) | milk |
 | 1 stick (1/2 cup) | unsalted butter |
 | 15 grams (1 TBSP) | sugar |
