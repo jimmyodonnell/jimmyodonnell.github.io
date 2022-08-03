@@ -1,10 +1,10 @@
 ---
 layout: post
 category: blog
-title: Recipe Page Title
+title: Waffle Cones
 excerpt:
-modified: 2021-09-22
-tags: [tag1, tag2]
+modified: 2022-08-03
+tags: [dessert, cookies, frozen]
 comments: false
 ---
 
