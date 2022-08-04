@@ -32,7 +32,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Peanut Sauce](recipes/peanut-sauce.md)
 
 ## Breads, Muffins, and Such
-- [Blueberry Muffins](recipes/muffins-blueberry.md)
+- [Muffins](recipes/muffins.md)
 - [Waffles](recipes/waffles.md)
 - [Pancakes](recipes/pancakes.md)
 - [Banana Bread](recipes/banana-bread.md)
