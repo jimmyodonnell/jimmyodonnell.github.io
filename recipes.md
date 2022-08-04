@@ -35,6 +35,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Blueberry Muffins](recipes/muffins-blueberry.md)
 - [Waffles](recipes/waffles.md)
 - [Pancakes](recipes/pancakes.md)
+- [Banana Bread](recipes/banana-bread.md)
 
 ## Desserts
 - [Passionfruit Cheesecake](recipes/cheesecake-passionfruit.md)
