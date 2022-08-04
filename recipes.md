@@ -47,3 +47,4 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Sorbet](recipes/sorbet.md)
 - [Ice Cream](recipes/ice-cream.md)
 - [Waffle Cones](recipes/waffle-cones.md)
+- [Cheesecake](recipes/cheesecake.md)
