@@ -11,7 +11,6 @@ comments: false
 ### Ingredients
 
 | ---------- | ------ |
-| amount | ingredient |
 | 2 cups | flour |
 | 2 TBSP | sugar |
 | 1 TBSP | baking powder |
