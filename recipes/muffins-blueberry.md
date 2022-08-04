@@ -1,14 +1,14 @@
 ---
 layout: post
 category: blog
-title: Blueberry Muffins
+title: Muffins
 excerpt:
 modified: 2021-09-20
 tags: [Muffins, Bread, Cake]
 comments: false
 ---
 
-Mom's Blueberry Muffins
+### Mom's Blueberry Muffins
 
 | ---------- | ------ |
 | 1 cup (90 g) | oats |
@@ -40,4 +40,29 @@ Mom's Blueberry Muffins
 
 
 #### Source:
-Good Housekeeping Sep 2011
+Good Housekeeping Sep 2011 via Mom.
+
+
+### Generic Muffins
+
+| ---------- | ------ |
+| sugar | 0.5-1 cup (plus sprinkle some on top) |
+| honey | 0-1 TBSP |
+| flour | 2 cups (226 g whole wheat; 240 g all purpose) |
+| baking powder | 3 tsp (1 TBSP) |
+| salt | 0.5 tsp |
+| eggs | 1-2 |
+| butter | 3-8 TBSP |
+| yogurt or buttermilk | 0.75-1.5 cups |
+
+
+Optional flavoring:
+- poppy seed (2 TBSP)
+- lemon zest and juice of 1 lemon
+- vanilla
+- blueberries
+- flax seed
+- nuts
+- chocolate chips
+
+Bake at 350-400 for 20-25 minutes
