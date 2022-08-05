@@ -27,6 +27,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Bolognese Sauce](recipes/bolognese.md)
 - [Butternut Squash Soup](recipes/soup-butternut-squash.md)
 - [Deep Dish Pizza](recipes/pizza-deep-dish.md)
+- [Granola](recipes/granola.md)
 
 ## Sauces and Such
 - [Garam Masala](recipes/garam-masala.md)
