@@ -32,6 +32,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 ## Sauces and Such
 - [Garam Masala](recipes/garam-masala.md)
 - [Peanut Sauce](recipes/peanut-sauce.md)
+- [Muhammara](recipes/muhammara.md)
 
 ## Breads, Muffins, and Such
 - [Muffins](recipes/muffins.md)
