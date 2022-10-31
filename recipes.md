@@ -54,3 +54,4 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Cheesecake](recipes/cheesecake.md)
 - [Tart Crust](recipes/tart-crust.md)
 - [Frangipane Tart](recipes/tart-frangipane.md)
+- [Chocolate Chip Cookies](recipes/cookies-chocolate-chip.md)
