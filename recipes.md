@@ -16,6 +16,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Singapore Sling](recipes/cocktail-singaporesling.md)
 - [Paris Manhattan](recipes/cocktail-parismanhattan.md)
 - [Bijou](recipes/cocktail-bijou.md)
+- [Steve's Rum Barrel](recipes/cocktail-steves-rum-barrel.md)
 
 ## Mains and Sides
 - [Chana Masala](recipes/chana-masala.md)
