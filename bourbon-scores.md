@@ -8,7 +8,7 @@ tags: [drinks]
 comments: false
 ---
 
-This is a plot of the rating/score against price for around 400 bourbon whiskey reviews on thewhiskeyjug.coms.
+This is a plot of the rating/score against price for around 400 bourbon whiskey reviews on [The Whiskey Jug](https://thewhiskeyjug.com).
 
 {% include html_tooltip.html %}
 
