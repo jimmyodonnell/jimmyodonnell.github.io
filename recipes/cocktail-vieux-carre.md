@@ -16,10 +16,10 @@ comments: false
 | 2 dash | Peychaud's bitters |
 | 1 dash | Angostura bitters |
 
-- Step 1
 1. Stir all ingredients with ice.
 2. Strain into an old fashioned glass (or a Nick and Nora or a cocktail or whatever ol' glass).
 3. Garnish with a lemon peel
+
 
 - **Mix**: Stir
 - **Glass**: Old Fashioned, Nick and Nora, etc.
