@@ -9,6 +9,7 @@ comments: false
 ---
 
 Bon Appetit Ingredients
+
 | ---------- | ------ |
 | 1 | medium onion, chopped |
 | 1 | celery stalk, chopped |
@@ -28,6 +29,7 @@ Bon Appetit Ingredients
 
 
 NYT Ingredients
+
 | ---------- | ------ |
 | 1 tablespoon | vegetable oil |
 | 3 tablespoons | butter (plus 1 tablespoon for tossing the pasta) |
