@@ -10,9 +10,9 @@ comments: false
 
 | ---------- | ------ |
 | 10 mL | Benedictine |
+| 22.5 mL | sweet vermouth |
 | 22.5 mL | whiskey (rye or Bourbon) |
 | 22.5 mL | brandy (Cognac if u so fancy) |
-| 22.5 mL | sweet vermouth |
 | 2 dash | Peychaud's bitters |
 | 1 dash | Angostura bitters |
 
