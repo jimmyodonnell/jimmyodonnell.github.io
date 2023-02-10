@@ -32,3 +32,8 @@ comments: false
 - \* According to [sources attributed to Jeff "Beachbum" Berry](https://punchdrink.com/recipes/jeff-beachbum-berrys-passion-fruit-syrup/), he uses equal parts 1:1 simple syrup and frozen passionfruit pulp.
 - ** Honey syrup is equal parts honey and water.
 
+
+Additional info:
+- 15mL honey weighs 21g. Total for a quadruple batch (8 servings) is 42g honey + 30mL water
+- 24 drops ~0.5 mL (absinthe)
+- A quadruple batch (8 servings) without rum is pretty much exactly 16 fl oz. Each single serving should contain 2 oz mix and 2 oz rum.
