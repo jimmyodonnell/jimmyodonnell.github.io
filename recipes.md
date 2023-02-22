@@ -31,6 +31,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Deep Dish Pizza](recipes/pizza-deep-dish.md)
 - [Granola](recipes/granola.md)
 - [Pesto Trapanese](recipes/pesto-trapanese.md)
+- [Spinach Pie](recipes/spinach-pie.md)
 
 ## Sauces and Such
 - [Garam Masala](recipes/garam-masala.md)
