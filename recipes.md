@@ -18,6 +18,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Bijou](recipes/cocktail-bijou.md)
 - [Steve's Rum Barrel](recipes/cocktail-steves-rum-barrel.md)
 - [Vieux Carré](recipes/cocktail-vieux-carre.md)
+- [Falernum](recipes/liqueur-falernum.md)
 
 ## Mains and Sides
 - [Chana Masala](recipes/chana-masala.md)
