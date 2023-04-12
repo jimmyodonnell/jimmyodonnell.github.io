@@ -8,9 +8,6 @@ tags: [cocktails, drinks, liqueurs]
 comments: false
 ---
 
-baap
-
-<center>
 
 | ---------- | ------ |
 | Cloves | 20 |
@@ -23,7 +20,6 @@ baap
 | Plantation 5 year rum | 100 g |
 | Almond extract | 0.75 mL |
 
-</center>
 
 - Heat the cloves, allspice, and star anise gently in a skillet to toast them.
 - While those are toasting, grate ginger into a heat-safe pint jar.
