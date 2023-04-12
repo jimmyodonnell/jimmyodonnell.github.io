@@ -19,6 +19,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Steve's Rum Barrel](recipes/cocktail-steves-rum-barrel.md)
 - [Vieux Carré](recipes/cocktail-vieux-carre.md)
 - [Falernum](recipes/liqueur-falernum.md)
+- [Amaretto Sour](recipes/cocktail-amaretto-sour.md)
 
 ## Mains and Sides
 - [Chana Masala](recipes/chana-masala.md)
