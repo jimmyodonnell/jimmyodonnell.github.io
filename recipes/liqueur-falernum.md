@@ -8,6 +8,7 @@ tags: [cocktails, drinks, liqueurs]
 comments: false
 ---
 
+<div align="center">
 | ---------- | ------ |
 | Cloves | 20 |
 | Allspice berries | 20 |
@@ -18,6 +19,7 @@ comments: false
 | Lime zest | 4 limes |
 | Plantation 5 year rum | 100 g |
 | Almond extract | 0.75 mL |
+</div>
 
 - Heat the cloves, allspice, and star anise gently in a skillet to toast them.
 - While those are toasting, grate ginger into a heat-safe pint jar.
