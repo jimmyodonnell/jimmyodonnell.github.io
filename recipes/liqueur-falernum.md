@@ -8,9 +8,10 @@ tags: [cocktails, drinks, liqueurs]
 comments: false
 ---
 
-beep
+boop
 
 <div align="center">
+
 | ---------- | ------ |
 | Cloves | 20 |
 | Allspice berries | 20 |
@@ -21,6 +22,7 @@ beep
 | Lime zest | 4 limes |
 | Plantation 5 year rum | 100 g |
 | Almond extract | 0.75 mL |
+
 </div>
 
 - Heat the cloves, allspice, and star anise gently in a skillet to toast them.
