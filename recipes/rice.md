@@ -11,7 +11,7 @@ comments: false
 ### Ingredients
 
 | ---------- | ------ |
-| 1 cup | white rice |
+| 1 cup (~200g) | white rice |
 | 1.75 cup | water |
 | 0.5 tsp | salt |
 
@@ -21,6 +21,8 @@ comments: false
 - Put on the lid, drop heat to low, and let simmer for 20 minutes (level 2 on our back right burner).
 - Turn off heat, keep lid on, and let sit another 5 minutes undisturbed.
 - Take off lid, fluff, and serve or replace lid.
+- _Note_: 1 cup of white rice is approximately 200 grams. Rinsing and draining adds about 20g of water.
+
 
 #### Brown Rice
 
