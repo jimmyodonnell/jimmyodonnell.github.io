@@ -35,4 +35,4 @@ Bake in a loaf pan at 325ºF for about 1 hour.
 - Maybe Josh from FLMNH?
 
 #### Notes
-* Note: Recipe originally called for "Smart Balance", which makes me think I might have gotten this recipe from Josh at FLMNH. This can be substituted with butter or 3TBSP oil.
+* Note: Recipe originally called for "Smart Balance", which makes me think I might have gotten this recipe from Josh at FLMNH. This can be substituted with butter or 3TBSP oil (12.5g/tbsp * 3 = 37.5g).
