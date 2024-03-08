@@ -36,3 +36,30 @@ Bake in a loaf pan at 325ºF for about 1 hour.
 
 #### Notes
 * Note: Recipe originally called for "Smart Balance", which makes me think I might have gotten this recipe from Josh at FLMNH. This can be substituted with butter or 3TBSP oil (12.5g/tbsp * 3 = 37.5g).
+
+
+#### 2023-11-03
+
+| ---------- | ------ |
+| 75g |	oil* |
+| 170g | 	honey | (should have been 340g)
+| 200 g | 	brown sugar |
+| 2 | 	egg |
+| 2 can | 	pumpkin |
+| 350 g | 	whole wheat flour |
+| 50 g | 	flax seed |
+| 2 tsp | 	baking powder |
+| 2.5 tsp | 	baking soda |
+| 4 tsp | 	cinnamon |
+| 1 tsp | 	nutmeg |
+| 1 tsp | 	ginger |
+| 1/2 tsp | 	cloves |
+| 1/2 tsp | 	allspice |
+| 2 tsp | 	vanilla |
+| 1 cup | 	nuts |
+
+
+missing a half cup honey; added a half cup sugar - 100g
+Honey is sweeter than sugar, so you can use about 3/4 the amount of honey when making your substitution (e.g., for 1 cup of sugar, use a generous 3/4 cup of honey). Decrease the liquid by 3 to 4 tablespoons per 1 cup substitution. No added liquid in your recipe? Add about 3 to 4 tablespoons of additional flour for every cup of honey used (about 1 tablespoon per 1/4 cup).
+
+cook time for bundt was ~1h 25min
