@@ -9,15 +9,15 @@ comments: false
 ---
 
 | ---------- | ------ |
-| 2.25 cups (293 g) | flour |
-| 1 tsp | baking soda |
-| 1 tsp | salt |
 | 1.5 sticks | butter |
-| 0.75 cups | white sugar |
-| 0.75 cups | brown sugar |
+| 0.75 cups (150 g) | white sugar |
+| 0.75 cups (150 g) | brown sugar |
 | 1 tsp | vanilla extract |
 | 2 | eggs |
-| ~12 oz | chocolate chips |
+| 1 tsp | salt |
+| 1 tsp | baking soda |
+| 2.25 cups (293 g) | flour |
+| ~12 oz or 2 cups | chocolate chips |
 | 1 cup | chopped nuts |
 
 
