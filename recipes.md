@@ -48,6 +48,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Banana Bread](recipes/banana-bread.md)
 - [Scones](recipes/scones.md)
 - [Pumpkin Bread](recipes/pumpkin-bread-muffins.md)
+- [Finnish Cardamom Pulla Bread](recipes/bread-finnish-pulla.md)
 
 ## Desserts
 - [Passionfruit Cheesecake](recipes/cheesecake-passionfruit.md)
