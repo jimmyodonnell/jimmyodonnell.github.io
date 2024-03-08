@@ -28,8 +28,8 @@ comments: false
 | 60 g | cilantro, preferably mostly leaves rather than stems |
 | 25 g | fresh ginger root |
 | 12 g | serrano pepper |
-| 350 g | water |
-| 350 g | sugar |
+| 444 g | water |
+| 414 g | sugar |
 
 - Blend everything except the sugar in a blender.
 - Let sit for at least 1 hour.
@@ -37,6 +37,13 @@ comments: false
 - Strain blended puree into container, stir to dissolve sugar.
 - Pour into bottle or jar. It will not freeze solid, so making it into ice cubes doesn't work well. Try freezing in smallish quantities (i.e. in a jar to make batches of 2 or 4 cocktails).
 
+#### Simple syrup math:
+- 15 ml sugar (14g) dissolved into 15 ml (15g) water comes to 24ml.
+- final volume is 0.8 of additive volume
+- "25 ounces" if volume is 710ml
+- sugar ratio to final: VOLUME: 15ml of 24ml is 0.625. WEIGHT: 14g of 29g is 0.48
+- Sugar: 710ml*14g/24ml = 414g
+- Water: 710ml*15g/24ml = 444g
 
 #### Source
 - [Mezcal Phd](https://mezcalphd.com/2018/10/one-killer-mezcal-cocktail-the-gardener/)
