@@ -45,6 +45,14 @@ comments: false
 - Sugar: 710ml*14g/24ml = 414g
 - Water: 710ml*15g/24ml = 444g
 
+#### Cilantro math:
+- after spinning dry in a salad spinner and cleaning
+- 40g leaves
+- 60g stems
+- 100g total
+- Total weight should be at least 60g. An entire 100g bunch gets 40g of leaves (should be fine) and 60g stems (where the flavors are presumably not as concentrated)
+
+
 #### Source
 - [Mezcal Phd](https://mezcalphd.com/2018/10/one-killer-mezcal-cocktail-the-gardener/)
 
