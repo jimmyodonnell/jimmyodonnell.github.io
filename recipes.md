@@ -21,6 +21,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Falernum](recipes/liqueur-falernum.md)
 - [Amaretto Sour](recipes/cocktail-amaretto-sour.md)
 - [Gardener](recipes/cocktail-gardener.md)
+- [Simple Syrup](recipes/simple-syrup.md)
 - [Hummingbird Nectar](recipes/hummingbird-nectar.md)
 
 ## Mains and Sides
