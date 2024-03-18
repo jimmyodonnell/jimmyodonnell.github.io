@@ -37,6 +37,7 @@ These are some recipes. You can read the [preface](recipes/preface.md) for some 
 - [Granola](recipes/granola.md)
 - [Pesto Trapanese](recipes/pesto-trapanese.md)
 - [Spinach Pie](recipes/spinach-pie.md)
+- [Breakfast Casseroles](recipes/breakfast-casserole.md)
 
 ## Sauces and Such
 - [Garam Masala](recipes/garam-masala.md)
