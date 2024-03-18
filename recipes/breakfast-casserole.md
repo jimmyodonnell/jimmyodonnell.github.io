@@ -8,7 +8,7 @@ tags: [breakfast, casserole]
 comments: false
 ---
 
-## Aunt Maureen's Sausage and Cheese Breakfast Casserole
+## Sausage and Cheese Breakfast Casserole
 
 | ---------- | ------ |
 | 1.5 - 2 lb | pork sausage |
@@ -21,14 +21,14 @@ comments: false
 | to taste | herbs, fresh or dried (sage, thyme, rosemary, savory) |
 
 1. Brown and crumble sausage. Drain well.
-- Mix eggs, milk, mustard, and salt.
-- Stir in bread, sausage, and cheese.
-- Pour into greased 13" x 9" pan.
-- Cover and refrigerate overnight.
-- In the morning, bake for ~1 hour at 350ºF, until set.
+2. Mix eggs, milk, mustard, and salt.
+3. Stir in bread, sausage, and cheese.
+4. Pour into greased 13" x 9" pan.
+4. Cover and refrigerate overnight.
+4. In the morning, bake for ~1 hour at 350ºF, until set.
 
 #### Source
-Aunt Maureen's neighbor, Sue Palaskas.
+Aunt Maureen's neighbor, Sue Palaskas. "Out of this world breakfast casserole"
 
 #### Notes
 
@@ -45,10 +45,10 @@ Aunt Maureen's neighbor, Sue Palaskas.
 | 1 cup | frozen blueberries |
 
 1. Grease a 9x13-inch baking dish.
-- Stir brown sugar and butter together in a saucepan over medium-low heat until butter is melted and sugar has dissolved, 2 to 4 minutes.
-- Pour butter-brown sugar mixture into the prepared baking dish. Scatter French bread pieces over top in a 1 1/2- to 2-inch layer.
-- Whisk milk, eggs, and vanilla together in a bowl until well combined. Pour over bread pieces, then press bread down with a spatula so the bread absorbs the liquid. Cover the dish with plastic wrap and refrigerate overnight.
-- The next morning, bake 45-60 min at 350ºF.
+1.  Stir brown sugar and butter together in a saucepan over medium-low heat until butter is melted and sugar has dissolved, 2 to 4 minutes.
+1.  Pour butter-brown sugar mixture into the prepared baking dish. Scatter French bread pieces over top in a 1 1/2- to 2-inch layer.
+1.  Whisk milk, eggs, and vanilla together in a bowl until well combined. Pour over bread pieces, then press bread down with a spatula so the bread absorbs the liquid. Cover the dish with plastic wrap and refrigerate overnight.
+1.  The next morning, bake 45-60 min at 350ºF.
 
 
 #### Source
