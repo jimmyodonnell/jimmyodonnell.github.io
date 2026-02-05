@@ -13,8 +13,8 @@ comments: false
 
 
 | ---------- | ------ |
-| nuts | 50-100g) |
-| bananas | ~400g) |
+| nuts | 50-100g |
+| bananas | ~400g |
 | eggs | 2 |
 | coconut oil, melted | ~60 g |
 | vanilla | 2 tsp |
