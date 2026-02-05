@@ -8,6 +8,38 @@ tags: [bread, muffins]
 comments: false
 ---
 
+
+### Banana Bread
+
+
+| ---------- | ------ |
+| nuts | 50-100g) |
+| bananas | ~400g) |
+| eggs | 2 |
+| coconut oil, melted | ~60 g |
+| vanilla | 2 tsp |
+| flour, whole wheat | 170 g |
+| flax seed, ground | 50 g |
+| baking soda | 1.5 tsp |
+| salt | 0.5 tsp |
+| coconut, dry unsweetened | 30 g |
+| chocolate chips | 170 g |
+
+
+- Chop nuts coarse in food processor, set aside.
+- Puree banana, eggs, oil, and vanilla in food processor.
+- Mix dry ingredients in big bowl.
+- Stir wet and dry ingredients together, and stir in nuts, coconut, and chocolate.
+- Put into cupcake tins, 9x5 loaf pan, or 9x9 pan.
+- Bake for 30-60 min at 350ºF (longer for loaf, shorter for muffins).
+
+#### Source
+Remixed from Half Baked Harvest.
+
+#### Notes
+- Made 21 regular sized muffins.
+
+
 ### Coconut Banana Bread
 
 Inspired by some stuff I ate in São Paulo
