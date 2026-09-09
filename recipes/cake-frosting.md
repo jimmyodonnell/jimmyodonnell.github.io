@@ -97,7 +97,7 @@ Proportions of milk, butter, sugar, flour: 0.37 + 0.35 + 0.21 + 0.06
 - _Troubleshooting_: If the frosting feels dense, stiff, greasy, or curdled, it is likely too cold; to warm, briefly set over a pan of steaming water, just until you see the edges melting slightly, then re-whip. If the frosting feels soft and loose, it is likely too warm. Pop it in the fridge for 15 minutes to cool, then re-whip.
 
 ##### Notes:
-2021-05: Made this and it was really not very sweet. I would have preferred it to be sweeter when paired with the dark chocolate cake (/recipes/cake-chocolate).
+2021-05: Made this and it was really not very sweet. I would have preferred it to be sweeter when paired with the [dark chocolate cake](cake-chocolate.md).
 
 #### Wilton Version
 [Wilton Easy Ermine Frosting Recipe](https://www.wilton.com/easy-ermine-frosting-recipe/WLRECIP-8801.html)
