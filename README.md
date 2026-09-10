@@ -21,6 +21,11 @@ and lot of other options, like width, projects, pages, read-time, tags, related 
 
 To build and test locally:
 
+```sh
+mise exec ruby@3.2.11 -- bundle _2.7.2_ exec jekyll serve --config _config.yml,_config-dev.yml --host 127.0.0.1 --port 4000
+```
+[go to assigned port](http://127.0.0.1:4000/)
+
 1. Install [Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
 2. Clone the forked repo on your machine
 3. Enter the cloned folder via terminal and run `bundle install`
