@@ -38,4 +38,4 @@ comments: false
 
 ### Source
 > The Rosita’s history is murky, like that of so many classic and modern-classic drinks before it. Iterations of the cocktail date to at least the 1970s, before an early recipe was eventually featured in the Mr. Boston Official Bartender’s Guide. There, it sat buried in the book’s pages for years until eventually being unearth and riffed upon by bar legend Gary “Gaz” Regan, ...[who published it in his]... 1991 cocktail book, The Bartender’s Bible. 
-- [Liquor.com](https://www.liquor.com/rosita-cocktail-recipe-7487591)
+-- [Liquor.com](https://www.liquor.com/rosita-cocktail-recipe-7487591)
