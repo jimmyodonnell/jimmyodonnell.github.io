@@ -23,6 +23,7 @@ These are some recipes. You can read the [preface](/recipes/preface/) for some c
 - [Gardener](/recipes/cocktail-gardener/)
 - [Simple Syrup](/recipes/simple-syrup/)
 - [Hummingbird Nectar](/recipes/hummingbird-nectar/)
+- [Rosita](/recipes/cocktail-rosita/)
 
 ## Mains and Sides
 - [Chana Masala](/recipes/chana-masala/)
