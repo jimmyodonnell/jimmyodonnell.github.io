@@ -10,10 +10,10 @@ comments: false
 
 
 | --- | --- |
-| butter | 8 TBSP |
+| butter | 1 stick (8 TBSP)  |
 | sugar | 66 g |
-| flour | 150 g |
 | salt | 1/4 tsp |
+| flour | 150 g |
 | egg yolks | 1 |
 
 
@@ -21,11 +21,12 @@ comments: false
 - Add the flour and mix on low speed for about 30 seconds, until the flour is incorporated. The mixture will look like wet, clumpy sand.
 - Add the egg yolk and mix on low speed until the yolk is evenly incorporated and the dough is clumpy, about 30 seconds.
 - Using your hand, lightly knead the dough into a ball inside the bowl.
-- Remove the dough from the bowl, press it into a 6-inch disk, wrap it tightly in plastic wrap, and let it rest in the refrigerator for about 30 minutes. (The dough can be tightly wrapped in plastic and stored in the refrigerator for up to 5 days or in the freezer for up to 3 months. If frozen, thaw it in the refrigerator overnight before using.)
-- Place the chilled dough inside the pan. Pinch off pieces of dough and press them against the sides of the pan to reach just shy of a ¼ inch thick and about ⅛ inch above the rim (you'll trim the top later). Using the heel of your hand, press the rest of the dough evenly into the bottom of the pan. (It will look like a mess, and it may seem like you won't have enough dough at first, but have faith, it will come together.) Be sure there are no seams in the dough, and press it squarely along the corners where the bottom meets the sides to avoid extra-thick edges. Use a paring knife to trim the top edge of the dough so it is even with the rim of the pan. Cover with plastic wrap and place in the freezer for at least 30 minutes to chill.
-    - JO: Prick bottom of crust with fork.
-- Preheat the oven to 350°F and set an oven rack in the middle position.
-- Place the chilled pâte sucrée on a baking sheet (for easy handling) and bake for 23 to 26 minutes, or until lightly golden. Let cool to room temperature on a wire rack.
+  - If making ahead: Remove the dough from the bowl, press it into a 6-inch disk, wrap it tightly in plastic wrap, and put it in the fridge or freezer. The dough can be stored in the refrigerator for up to 5 days or in the freezer for up to 3 months. If frozen, thaw it in the refrigerator overnight before using.
+- Mash the dough into the tart pan, pinching off pieces of dough and pressing them against the sides until the whole thing is evenly covered.
+- *IMPORTANT!* Cover with plastic wrap and place in the fridge or freezer for at least 30 minutes to chill. (Now is a great time to make the filling.)
+- To blind bake:
+  - Preheat the oven to 350°F and set an oven rack in the middle position.
+  - Place the chilled crust on a baking sheet for easy handling, prick the bottom with a fork, and bake for 23 to 26 minutes, or until lightly golden. Let cool to room temperature on a wire rack.
 
 
 #### Sources
@@ -35,7 +36,6 @@ In the end, I most closely followed the recipe from Once Upon a Chef.
 - [Serious Eats](https://www.seriouseats.com/pate-sucree-tart-shell-recipe) - To be honest, this just does not look very good
 - [Martha Stewart](https://www.marthastewart.com/344584/pate-sucree)
 - [Smitten Kitchen](https://smittenkitchen.com/2008/11/the-great-unshrinkable-sweet-tart-shell/)
-- [Once Upon A Chef](https://www.onceuponachef.com/recipes/pate-sucree-sweet-tart-dough.html)
 
 
 #### Notes

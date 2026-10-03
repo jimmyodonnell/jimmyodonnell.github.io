@@ -11,12 +11,12 @@ comments: false
 ### Tart Filling
 
 | ---------- | ------ |
-| ½ cup (125g) | unsalted butter, at room temperature |
+| 1 stick (8 TBSP) | unsalted butter, at room temperature |
 | 1/2 cup (100g) | sugar |
+| 2 | large eggs |
 | 1 tsp | vanilla extract |
 | 1 tsp | almond extract |
-| 2 | large eggs |
-| 1 ¼ cups | ground almond (120g) |
+| 1 ¼ cups (120g) | almond flour (or other finely ground nuts) |
 | 3 tablespoons (45g) | unbleached all-purpose flour |
 
 - In a large mixing bowl, whisk the butter until creamy. Add the sugar and continue whisking until fluffy.
@@ -26,7 +26,7 @@ comments: false
 
 ### Baking the tart
 - Pour into a prepared (perhaps blind baked?!) [tart crust](../tart-crust.md)
-- Top with halved stone fruit, cut side down. Perhaps also sliced almonds?
+- Top with halved stone fruit, cut side down. You could also add sliced almonds, but I think they should be raw.
 - Bake for 40+ minutes at 350ºF
 - Let cool, serve topped with whipped cream or powdered sugar.
 
@@ -35,4 +35,6 @@ Mostly based off of [Pardon Your French](https://www.pardonyourfrench.com/aprico
 
 #### Notes
 - Consider other nuts... pecans, pistachios, walnuts, etc
-- Note that Pardon Your French does not blind bake the crust -- to consider next time!
+- I am not yet able to get consistent results with blind baking the crust; however, tarts baked all in one go have been so good I don't worry about it.
+- If you are starting with whole nuts, you can minimize dishes by first grinding the nuts in a food processor, removing them and wiping it out, making the crust in there, then making the tart filling in it.
+
