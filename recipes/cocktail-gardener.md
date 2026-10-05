@@ -49,7 +49,7 @@ comments: false
 - 2024-03-08:
     - After rinsing, spinning dry, and separating leaves from stems, cilantro bunch weighed 100g (40g leaves, 60g stems).
     - Used 12g of what was a pretty big/long serrano, from the distal end (not stem end). Almost no spice. Next time just use the whole serrano for a full batch.
-    - Did a little [simple syrup math](../recipes/simple-syrup.md).
+    - Did a little [simple syrup math](/recipes/simple-syrup/).
     - For the cilantro syrup for a Gardener:
         - "25 ounces" (if volume) is 710ml
         - Sugar: 710ml*14g/24ml = 414g

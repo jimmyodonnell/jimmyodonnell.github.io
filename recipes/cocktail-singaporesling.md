@@ -35,8 +35,8 @@ How I actually make it:
 | Angostura bitters | 1 dash  |
 | Club soda | to top |
 
-* Orange liqueur: Use [homemade orange liqueur](liqueur-orange.md), which has no added sugar, making it basically orange-infused brandy.
-* Cherry liqueur: Use [homemade cherry liqueur](liqueurs.md), which is equal parts (by volume) liquid leftoever from Trader Joe's Amarena Cherries and whatever 40%ABV liquor you prefer (brandy or rum are good choices).
+* Orange liqueur: Use [homemade orange liqueur](/recipes/liqueur-orange/), which has no added sugar, making it basically orange-infused brandy.
+* Cherry liqueur: Use [homemade cherry liqueur](/recipes/liqueurs/), which is equal parts (by volume) liquid leftoever from Trader Joe's Amarena Cherries and whatever 40%ABV liquor you prefer (brandy or rum are good choices).
 * Note that there is no sweetness from grenadine or orange liqueur, but the homemade cherry liqueur should be enough to make up for it.
 
 ### Method

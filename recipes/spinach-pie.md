@@ -36,4 +36,4 @@ comments: false
 
 #### Notes
 - Original text had this comment about crust but I don't have the ingredients: "To make the crust, cut together flour with butter until uniformly blended. Add buttermilk. Chill at least one hour in a ball. Roll out into 9" pie crust."
-- See pie crust recipe [here](pie-crust.md)
+- See pie crust recipe [here](/recipes/pie-crust/)

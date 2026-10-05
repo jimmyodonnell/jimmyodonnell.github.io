@@ -25,7 +25,7 @@ comments: false
 - Finally, whisk in the ground almond and the flour. Mix until just incorporated.
 
 ### Baking the tart
-- Pour into a prepared (perhaps blind baked?!) [tart crust](../tart-crust.md)
+- Pour into a prepared (perhaps blind baked?!) [tart crust](/recipes/tart-crust/)
 - Top with halved stone fruit, cut side down. You could also add sliced almonds, but I think they should be raw.
 - Bake for 40+ minutes at 350ºF
 - Let cool, serve topped with whipped cream or powdered sugar.
