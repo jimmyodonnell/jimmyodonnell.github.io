@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '~> 232'
+gem 'jekyll', '~> 3.10.0'
+gem 'jekyll-feed', '~> 0.17.0'
+gem 'jekyll-gist', '~> 1.5'
+gem 'jekyll-seo-tag', '~> 2.8'
+gem 'jemoji', '~> 0.13.0'
+gem 'kramdown-parser-gfm', '~> 1.1'
 gem 'html-proofer'
 gem 'jekyll-admin'
