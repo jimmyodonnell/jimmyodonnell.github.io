@@ -44,6 +44,7 @@ These are some recipes. You can read the [preface](/recipes/preface/) for some c
 - [Garam Masala](/recipes/garam-masala/)
 - [Peanut Sauce](/recipes/peanut-sauce/)
 - [Muhammara](/recipes/muhammara/)
+- [Yogurt Caesar Salad Dressing](/recipes/yogurt-caesar-salad-dressing/)
 
 ## Breads, Muffins, and Such
 - [Muffins](/recipes/muffins/)
