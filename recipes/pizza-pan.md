@@ -8,6 +8,43 @@ tags: [pizza, bread, mains]
 comments: false
 ---
 
+## Pan Pizza
+
+Crust
+
+| ---------- | ------ |
+| flour | 600 g |
+| salt | 1.75 tsp |
+| yeast | 1.25 tsp |
+| water | 425 g |
+| olive oil  | 32.5 g |
+
+Toppings
+
+| ---------- | ------ |
+| sauce | 16oz |
+| cheese (mozz or prov) | 16oz |
+| pepperoni | ~3oz |
+| green pepper | 1 |
+| black olives | 1 small can ("3.8 oz drained") |
+
+
+1. Mix all ingredients, and either do bowl folds or mix in stand mixer. (do stand mixer next time). Put it in the fridge to rise for 1-3 days.
+2. Three hours before dinner, pour a few TBSP olive oil into the dark half sheet pan, plop the dough in, and flip it to coat all sides. Spread it out and press it into the pan by dimpling it with your fingers. Cover and let rest for ~15 min to loosen up, and then repeat to gradually get it evenly spread. Cover and let rest for 2 hours.
+3. About 30-60 min before baking, heat the oven to 450ºF with convection. Put one rack as high as possible, set steel on bottom of oven.
+4. Cover the crust with all or most of the cheese, then sauce, then toppings.
+5. Bake for ~15 min directly on the steel at the bottom of the oven, and another ~5 min at the top.
+
+
+#### Notes:
+- The folding process is super annoying. You repeatedly get your hands sticky with dough and then have to wash them only to have to do another bowl fold in 3 minutes. Do the whole thing in the stand mixer.
+- 
+
+Source: Adapted from [King Arthur's Crispy Cheesy Pan Pizza](https://www.kingarthurbaking.com/recipes/crispy-cheesy-pan-pizza-recipe)
+
+
+## Grandma Style Pizza (Bon Appetit)
+
 | ---------- | ------ |
 | 2.25 tsp | active dry yeast |
 | 1.75 cup (400 g) | warm water |
