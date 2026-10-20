@@ -69,3 +69,4 @@ These are some recipes. You can read the [preface](/recipes/preface/) for some c
 - [Tart Crust](/recipes/tart-crust/)
 - [Frangipane Tart](/recipes/tart-frangipane/)
 - [Chocolate Chip Cookies](/recipes/cookies-chocolate-chip/)
+- [Crème brûlée](/recipes/creme-brulee/)
