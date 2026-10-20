@@ -1,10 +1,10 @@
 ---
 layout: post
 category: blog
-title: Recipe Page Title
+title: Yogurt Caesar Salad Dressing
 excerpt:
-modified: 2021-09-22
-tags: [tag1, tag2]
+modified: 2026-10-20
+tags: [salad, dressing, mains]
 comments: false
 ---
 
