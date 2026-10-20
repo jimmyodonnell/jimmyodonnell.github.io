@@ -57,6 +57,7 @@ Based off of Tony Gemignani's pizza bible.
 
 
 ### Toppings per pie
+
 | --- | --- |
 | cheese | 4-6 oz |
 | pepperoni | ~ 4oz |
