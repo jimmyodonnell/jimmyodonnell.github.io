@@ -18,14 +18,14 @@ comments: false
 | olive oil | 5 g |
 
 
-1. Combine flour, malt, **and yeast** in stand mixer with dough hook, and on lowest speed, mix in the water for about 15s.
+1. Combine flour, malt, and yeast in stand mixer with dough hook, and on lowest speed, mix in the water for about 15s.
 1. Mix for 1 minute, until most of dough comes together around hook
 1. Pull dough off hook and scrape bowl to get everything into one mass.
 1. Turn dough over and press it into the bottom of the bowl to pick up any stray pieces.
 1. If dough isn't holding together, add small amounts of water (about 0.5tsp to start) and mix until dough is no longer dry and holds together
 1. Add the salt and mix for 1 min
 1. Pull dough off the hook and add oil
-1. Mix for 1-2 min, occassionally stopping to pull dough off hook and scrape down bowl, until all oil is absorbed
+1. Mix for 1-2 min, occasionally stopping to pull dough off hook and scrape down bowl, until all oil is absorbed
 1. Move dough to unfloured work surface, and knead for 2-3 minutes.
 1. (Optional) Cover with damp dish towel and let it rest at room temp for 60 min
 1. (Optional bulk rise) Put in a bowl, cover, and refrigerate for 24 hours. After 24h,remove dough from fridge, briefly knead to degas.
