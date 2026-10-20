@@ -30,3 +30,16 @@ For brown rice, increase water from 1.75 to 2 cups. put all in a saucepan, heat 
 Basically like white rice except (1) a little more water, (2) don't let the water boil down before covering, and (3) longer cook time.
 
 Source: Uncle Gary, from his bag of rice
+
+#### Instant Pot
+
+- 1 cup rice
+- 1 cup water
+- 1/2 tsp fine salt
+
+1. Rinse rice.
+2. Add rice, water, salt to instant pot.
+3. Cook on high pressure for **3 minutes**. Let pressure naturally decrease for 10 minutes.
+4. Vent pot, then open and fluff.
+
+**Instant Pot Brown rice**: Same 1:1 ratio of rice to water, but pressure cook for 15 min with a 5 min natural release. (Totally fine to go longer on the pressure release)
