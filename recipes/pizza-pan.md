@@ -38,9 +38,10 @@ Toppings
 
 #### Notes:
 - The folding process is super annoying. You repeatedly get your hands sticky with dough and then have to wash them only to have to do another bowl fold in 3 minutes. Do the whole thing in the stand mixer.
-- 
 
-Source: Adapted from [King Arthur's Crispy Cheesy Pan Pizza](https://www.kingarthurbaking.com/recipes/crispy-cheesy-pan-pizza-recipe)
+
+#### Source:
+Adapted from [King Arthur's Crispy Cheesy Pan Pizza](https://www.kingarthurbaking.com/recipes/crispy-cheesy-pan-pizza-recipe)
 
 
 ## Grandma Style Pizza (Bon Appetit)
