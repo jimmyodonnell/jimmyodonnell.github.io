@@ -70,5 +70,5 @@ These are some recipes. You can read the [preface](/recipes/preface/) for some c
 - [Tart Crust](/recipes/tart-crust/)
 - [Frangipane Tart](/recipes/tart-frangipane/)
 - [Chocolate Chip Cookies](/recipes/cookies-chocolate-chip/)
-- [Molasses Spice Cookies](/recipes/cookies-molasses-spice/)
+- [Ginger Molasses Spice Cookies](/recipes/cookies-ginger-molasses-spice/)
 - [Crème Brûlée](/recipes/creme-brulee/)

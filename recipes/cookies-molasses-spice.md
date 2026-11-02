@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Recipe Page Title
+title: Ginger Molasses Spice Cookies
 excerpt:
 modified: 2026-11-01
 tags: [dessert, cookies, fall, autumn]
