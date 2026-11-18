@@ -18,7 +18,8 @@ comments: false
 | 1 tsp | baking soda |
 | 2.25 cups (293 g) | flour |
 | ~12 oz or 2 cups | chocolate chips |
-| 1 cup | chopped nuts |
+| 1 cup (113g) | chopped nuts |
+| 40g (~0.5 cup) | shredded coconut |
 
 
 - Combine flour, baking soda, and salt in a bowl.
